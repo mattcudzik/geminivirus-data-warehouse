@@ -1,0 +1,522 @@
+Virus Name,Genus,NCBI Assembly,Isolate,Release date,Submitter,Host,Vector
+Abutilon golden mosaic virus,Begomovirus,GCF_002821485.1,"Mexico: Yucatan, Suytunchen",2018/8/25,"Torres-Herrera,I., Cardenas-Conejo,Y., Ambriz-Granados,S., Mauricio-Castillo,J.A., Moreno-Valenzuela,O., Arguello-Astorga,G.R.",Abutilon permolle,Bemisia tabaci
+Beet curly top Iran virus,Becurtovirus,GCF_000879795.1,Iran: Kerman,2015/2/22,"Yazdi,H.R., Heydarnejad,J., Massumi,H., Bolok Yazdi,H.R., Hosseini Abhari,E.",Beta vulgaris,
+Exomis microphylla latent virus,Becurtovirus,GCF_002937325.1,South Africa,2018/2/22,"Claverie,S., Bernardo,P., Kraberger,S., Hartnady,P., Lefeuvre,P., Lett,J.-M., Filloux,D., Harkins,G.W., Varsani,A., Martin,D.P., Roumagnac,P.",Exomis microphylla,
+Spinach curly top Arizona virus,Becurtovirus,GCF_000893115.1,USA,2015/2/22,"Hernandez-Zepeda,C., Arguello-Astorga,G., Brown,J.K.",Spinacia oleracea,
+Abutilon mosaic Bolivia virus,Begomovirus,GCF_000890575.1,Bolivia,2015/2/22,"Wyant,P.S., Gotthardt,D., Schafer,B., Krenz,B., Jeske,H.",Abutilon permolle,Bemisia tabaci
+Abutilon mosaic Brazil virus,Begomovirus,GCF_000895175.1,Brazil,2015/2/22,"Wyant,P.S., Strohmeier,S., Schafer,B., Krenz,B., Assuncao,I.P., Lima,G.S., Jeske,H., Schaefer,B., Lima,G.S.A.",Sida rhombifolia,Bemisia tabaci
+Abutilon mosaic virus,Begomovirus,GCF_000847225.1,,2015/2/12,"Frischmuth,T., Zimmat,G., Jeske,H.",Callianthe sellowiana,Bemisia tabaci
+African cassava mosaic Burkina Faso virus,Begomovirus,GCF_004786835.1,Burkina Faso:Ouagadougou,2021/6/1,"Tiendrebeogo,F., Lefeuvre,P., Hoareau,M., Harimalala,M.A., Villemot,J., Traore,V.S.E., Konate,G., Traore,A.S., Barro,N., Reynaud,B., Traore,O., Lett,J.M.",Manihot esculenta,Bemisia tabaci
+African cassava mosaic virus,Begomovirus,GCF_000857205.1,,2015/2/13,"Stanley,J., Gay,M.R.",Manihot esculenta,Bemisia tabaci
+Ageratum enation virus,Begomovirus,GCF_000859025.1,Nepal,2015/2/13,"Briddon,R.W., Bull,S.E., Markham,P.G.",Ageratum conyzoides,Bemisia tabaci
+Ageratum leaf curl Sichuan virus,Begomovirus,GCF_013088045.1,China: Sichuan,2021/6/1,"Li,P., Qing,L.",Ageratum conyzoidesAbelmoschus esculentus,Bemisia tabaci
+Ageratum leaf curl virus,Begomovirus,GCF_000844985.1,China:Guangxi,2015/2/12,"Huang,J., Zhou,X.",Ageratum conyzoides,Bemisia tabaci
+Ageratum yellow vein Hualian virus,Begomovirus,GCF_000880075.1,Taiwan: Hsinchu,2015/2/22,"Tsai,W.S., Green,S.K., Shih,S.L.",Solanum lycopersicumAbutilon theophrastiAcalypha australisAgastache rugosaAgeratum conyzoides,Bemisia tabaci
+Ageratum yellow vein Sri Lanka virus,Begomovirus,GCF_000838085.1,Sri Lanka,2015/2/12,"Tsai,W.S., Ariyaratne,I., Green,S.K.",,Bemisia tabaci
+Ageratum yellow vein virus,Begomovirus,GCF_000845825.1,China:Hainan province,2015/2/12,"Xiong,Q., Fan,S., Wu,J., Zhou,X.",Ageratum conyzoidesAbutilon theophrastiAcalypha australisAgastache rugosa,Bemisia tabaci
+Allamanda leaf mottle distortion virus,Begomovirus,GCF_000919815.2,"India: Kalyani, West Bengal",2018/12/27,"Shilpi,S., Tarafdar,J., Mandal,B., Jailani,A.A.K., Roy,A.",Allamanda cathartica,Bemisia tabaci
+Alternanthera yellow vein virus,Begomovirus,GCF_000866585.1,China:Guangxi,2015/2/13,"Huang,J., Jiang,T., Zhou,X.",Ludwigia hyssopifolia,Bemisia tabaci
+Andrographis yellow vein leaf curl virus,Begomovirus,GCF_001441075.1,India: Barabanki,2015/11/7,"Khan,A., Saeed,S.T., Samad,A.",Andrographis paniculata,Bemisia tabaci
+Asystasia mosaic Madagascar virus,Begomovirus,GCF_000943705.1,Madagascar,2015/3/4,"De Bruyn,A., Harimalala,M., Ranomenjanahary,S., Reynaud,B., Lefeuvre,P., Lett,J.-M.",Asystasia gangetica,Bemisia tabaci
+Bean bushy stunt virus,Begomovirus,GCF_018589415.1,Argentina,2021/6/1,"Reyna,P., Bejerman,N., Laguna,G., Rodriguez Pardina,P.",Phaseolus vulgaris,
+Bean calico mosaic virus,Begomovirus,GCF_000840005.1,,2015/2/12,"Brown,J.K., Ostrow,K.M., Idris,A.M., Stenger,D.C.",,
+Bean chlorosis virus,Begomovirus,GCF_000902035.1,Venezuela,2015/2/22,"Fiallo-Olive,E., Marquez-Martin,B., Hassan,I., Chirinos,D.T., Geraud-Pouey,F., Navas-Castillo,J., Moriones,E., Chirinos,D.",Phaseolus vulgaris,
+Bean dwarf mosaic virus,Begomovirus,GCF_000838545.1,,2015/2/12,"Gilbertson,R.L., Faria,J.C., Hanson,S.F., Morales,F.J., Ahlquist,P.G., Maxwell,D.P., Russell,D.R., Hidayat,S.H.",,
+Bean golden mosaic virus,Begomovirus,GCF_000841845.1,,2015/2/12,"Gilbertson,R.L., Faria,J.C., Hanson,S.F., Morales,F.J., Ahlquist,P.G., Maxwell,D.P., Russell,D.R., Hidayat,S.H., Martinez,R.T., Leong,S.A.",,
+Bean latent virus,Begomovirus,GCF_018587735.1,"Mexico: Ruiz, Nayarit",2021/6/1,"Martinez-Marrero,N., Avalos-Calleros,J.A., Chiquito-Almanza,E., Acosta-Gallegos,J.A., Ambriz-Granados,S., Arguello-Astorga,G.R., Anaya-Lopez,J.L.",Phaseolus vulgaris,
+Bean leaf crumple virus,Begomovirus,GCF_004787795.1,Colombia,2019/6/28,"Carvajal-Yepes,M., Zambrano,L., Bueno,J.M., Raatz,B., Cuellar,W.J.",Phaseolus vulgaris,
+Bean white chlorosis mosaic virus,Begomovirus,GCF_000910695.1,Venezuela,2015/2/22,"Fiallo-Olive,E., Marquez-Martin,B., Hassan,I., Chirinos,D.T., Geraud-Pouey,F., Navas-Castillo,J., Moriones,E., Chirinos,D.",Phaseolus vulgaris,
+Bean yellow mosaic Mexico virus,Begomovirus,GCF_000893575.1,Mexico,2015/2/22,"Idris,A.M., Brown,J.K.",Phaseolus vulgaris,
+Bhendi yellow vein Bhubhaneswar virus,Begomovirus,GCF_000881075.1,"India: Bhubhaneswar, Orissa",2015/2/22,"Venkataravanappa,V., Lakshminarayanareddy,C., Devaraju, Swarnalatha,P., Jalali,S., Krishnareddy,M.",Abelmoschus esculentus,
+Bhendi yellow vein Haryana virus,Begomovirus,GCF_004786815.1,"India: Karnal, Haryana",2019/6/28,"Venkataravanappa,V., Lakshminarayanareddy,C., Devaraju, Swarnalatha,P., Jalali,S., Krishnareddy,M.",Abelmoschus esculentus,
+Bhendi yellow vein mosaic Delhi virus,Begomovirus,,India,,,,Bemisia tabaci
+Bhendi yellow vein mosaic virus,Begomovirus,GCF_001046705.1,India,2018/10/31,"Jose,J., Usha,R.",,
+Bitter gourd yellow mosaic virus,Begomovirus,GCF_014884275.1,India,2021/6/1,"Manivannan,K., Renukadevi,P., Malathi,V.G., Balakrishnan,N., Karthikeyan,G.",Momordica charantia,
+Blainvillea yellow spot virus,Begomovirus,GCF_000880175.1,Brazil,2015/2/22,"Castillo-Urquiza,G.P., Beserra,J.E. Jr., Bruckner,F.P., Lima,A.T., Varsani,A., Alfenas-Zerbini,P., Murilo Zerbini,F., Beserra,J.E.A. Jr., Lima,A.T.M., Zerbini,P.A., Zerbini,F.M.",Blainvillea rhomboidea,Bemisia tabaci
+Blechum interveinal chlorosis virus,Begomovirus,GCF_000897995.1,Mexico,2015/2/22,"Mauricio-Castillo,J.A., Banuelos-Hernandez,B., Patino-Rodriguez,O., Salazar-Gonzalez,J., Ambriz-Granados,S., Arguello-Astorga,G.R.",Ruellia blechum,Bemisia tabaci
+Boerhavia yellow spot virus,Begomovirus,GCF_002821785.1,Mexico,2018/8/25,"Hernandez-Zepeda,C., Idris,A.M., Carnevali,G., Brown,J.K., Moreno-Valenzuela,O.A.",Boerhavia coccinea,Bemisia tabaci
+Cabbage leaf curl Jamaica virus,Begomovirus,GCF_002867425.1,Jamaica,2018/8/26,"Smith,K.N., Roye,M.E., McLaughlin,W.A., Maxwell,D.P.",Brassica oleracea,
+Capraria yellow spot virus,Begomovirus,GCF_000911775.1,"Mexico: Yucatan, Conkal",2015/2/22,"Torres-Herrera,I., Cardenas-Conejo,Y., Ambriz-Granados,S., Mauricio-Castillo,J.A., Moreno-Valenzuela,O., Arguello-Astorga,G.R.",Capraria biflora,Bemisia tabaci
+Cassava mosaic Madagascar virus,Begomovirus,GCF_000895455.1,Madagascar:Toliary,2015/2/22,"Harimalala,M.A., Lefeuvre,P., Hoareau,M., Villemot,J., Tiendrebeogo,F., Ranomenjanahary,S., Andrianjaka,A., Reynaud,B., Lett,J.M.",Manihot esculenta,
+Catharanthus yellow mosaic virus,Begomovirus,GCF_000928135.1,Pakistan:Islamabad,2015/2/22,"Mustujab,A., Tahir,M.",Duranta erecta,Bemisia tabaci
+Centrosema yellow spot virus,Begomovirus,GCF_000896055.1,Brazil,2015/2/22,"Silva,S.J.C., Castillo-Urquiza,G.P., Hora,B.T. Jr., Assuncao,I.P., Lima,G.S.A., Pio-Ribeiro,G., Mizubuti,E.S.G., Zerbini,F.M.",Centrosema brasilianum,Bemisia tabaci
+Chayote yellow mosaic virus,Begomovirus,GCF_000859865.1,Nigeria: Ibadan,2015/2/13,"Thottappilly,G., Winter,S., Maxwell,D., Kamal,S.",,
+Chenopodium leaf curl virus,Begomovirus,GCF_002821805.1,"USA: Florida, Citra",2018/8/25,"Ng,T.F., Duffy,S., Polston,J.E., Bixby,E., Vallad,G.E., Breitbart,M., Ng,T.F.F., Vallad,G.",Dysphania ambrosioides,Bemisia tabaci
+Chilli leaf curl Ahmedabad virus,Begomovirus,GCF_001316395.1,India: Ahmedabad,2015/10/16,"Chahwala,F.D., Bhatt,B.S., Rathore,S., Singh,A.K.",Capsicum sp.,
+Chilli leaf curl Bhavanisagar virus,Begomovirus,GCF_004786875.1,India: Tamil Nadu,2021/6/1,"Parvathy,K., Angappan,K., Malathi,V.G., Richa,S., Jyothsna,P., Jeevalatha,A., Nirmal Kumar,R.",Capsicum sp.,
+Chilli leaf curl Gonda virus,Begomovirus,GCF_004787215.1,India: Gonda,2021/6/1,"Khan,Z.A., Khan,J.A.",Capsicum sp.,
+Chilli leaf curl India virus,Begomovirus,GCF_002986345.1,India:North India,2018/8/26,"Kumar,Y., Walia,Y., Bhardwaj,P., Negi,A., Hallan,V., Zaidi,A.A.",Capsicum sp.,
+Chilli leaf curl Kanpur virus,Begomovirus,GCF_002821825.1,India: Kanpur,2018/8/25,"Singh,A.K., Chattopadhyay,B., Chakraborty,S., Khan,A.",Capsicum sp.,
+Chilli leaf curl Sri Lanka virus,Begomovirus,GCF_004786955.1,Sri Lanka: Nochchiyagama,2021/6/1,"Senanayake,D.M., Mandal,B., Jayasinghe,J.E., Wasala,S.K.",Capsicum sp.,
+Chilli leaf curl Vellanad virus,Begomovirus,GCF_002821845.1,India: Vellanad,2018/8/25,"Singh,A.K., Chattopadhyay,B., Chakraborty,S., Vinothkumar,R.",Capsicum sp.,
+Chilli leaf curl virus,Begomovirus,GCF_000841265.1,"Pakistan: Multan, Punjab province",2015/2/12,"Shih,S.L., Tsai,W.S., Green,S.K., Khalid,S., Ahmad,I., Rezaian,M.A., Smith,J.",,
+Chino del tomate Amazonas virus,Begomovirus,GCF_002821945.1,Brazil,2018/8/25,"Fonseca,M.E.N., Boiteux,L.S., Fernandes,N.A.N., Costa,A.F.",Solanum lycopersicum,
+Chino del tomate virus,Begomovirus,GCF_000838385.1,,2015/2/12,"Jiang,H., Hou,Y.-M., Guzman,P., Gilbertson,R.L.",,
+Cleome golden mosaic virus,Begomovirus,GCF_000893495.1,Brazil,2015/2/22,"Fonseca,M.E.N., Boiteux,L.S., Fernandes,N.A.N., Costa,A.F.",Cleome sp.,Bemisia tabaci
+Cleome leaf crumple virus,Begomovirus,GCF_000894195.1,Brazil,2015/2/22,"Wyant,P.S., Strohmeier,S., Schafer,B., Krenz,B., Assuncao,I.P., Lima,G.S., Jeske,H., Schaefer,B., Lima,G.S.A.",Cleome sp.,Bemisia tabaci
+Clerodendron golden mosaic virus,Begomovirus,GCF_000875165.1,Viet Nam: Sonla,2015/2/13,"Ha,C., Coombs,S., Revill,P., Harding,R., Vu,M., Dale,J., Ha,C.V., Revill,P.A., Harding,R.M., Vu,M.T., Dale,J.L.",Clerodendrum philippinum,Bemisia tabaci
+Clerodendron yellow mosaic virus,Begomovirus,GCF_000873145.1,India,2015/2/13,"Sivalingam,P.N., Satheesh,V., John,P., Chandramohan,S., Malathi,V.G.",,Bemisia tabaci
+Clerodendrum golden mosaic China virus,Begomovirus,GCF_000882255.1,China,2015/2/22,"Yang,C.X., Wu,Z.J., Xie,L.H.",Clerodendrum cyrtophyllum,Bemisia tabaci
+Clerodendrum golden mosaic Jiangsu virus,Begomovirus,GCF_002986365.1,China:Jiangsu province,2018/8/26,"Li,J., Zhou,X., Zhou,X.P.",Clerodendrum cyrtophyllum,Bemisia tabaci
+Cnidoscolus mosaic leaf deformation virus,Begomovirus,GCF_003029265.2,Brazil,2018/12/27,,Cnidoscolus urens,Bemisia tabaci
+Coccinia mosaic Tamil Nadu virus,Begomovirus,GCF_000922555.1,"India: Tindivanam, Tamil Nadu",2015/2/22,"Nagendran,K., Mohankumar,S., Sathya,V.K., Malathi,V.G., Naidu,R.A., Karthikeyan,G.",Coccinia grandis,Bemisia tabaci
+Common bean mottle virus,Begomovirus,GCF_003029365.2,Cuba,2018/12/27,,Phaseolus vulgaris,
+Common bean severe mosaic virus,Begomovirus,GCF_002366145.2,Cuba,2018/12/27,"Chang-Sidorchuk,L., Gonzalez-Alvarez,H., Navas-Castillo,J., Fiallo-Olive,E., Martinez-Zubiaur,Y.",Phaseolus vulgaris,
+Corchorus golden mosaic virus,Begomovirus,GCF_000873405.1,Viet Nam: Hanoi,2015/2/13,"Ha,C., Coombs,S., Revill,P., Harding,R., Vu,M., Dale,J., Ha,C.V., Revill,P.A., Harding,R.M., Vu,M.T., Dale,J.L.",Corchorus capsularis,Bemisia tabaci
+Corchorus yellow spot virus,Begomovirus,GCF_000867685.1,Mexico: Yucatan,2015/2/13,"Hernandez-Zepeda,C., Idris,A.M., Carnevali,G., Brown,J.K., Moreno-Valenzuela,O.A.",Corchorus siliquosus,Bemisia tabaci
+Corchorus yellow vein Cuba virus,Begomovirus,,Cuba,,,,Bemisia tabaci
+Corchorus yellow vein mosaic virus,Begomovirus,GCF_000906695.1,India: Maharashtra,2015/2/22,"Archana,K., Malathi,V.G.",Corchorus olitorius,Bemisia tabaci
+Corchorus yellow vein virus,Begomovirus,GCF_000845265.1,Viet Nam,2015/2/12,"Ha,C., Coombs,S., Revill,P., Harding,R., Vu,M., Dale,J., Ha,C.V., Revill,P.A., Harding,R.M., Vu,M.T., Dale,J.L.",Corchorus capsularisAmaranthus,Bemisia tabaci
+Cotton chlorotic spot virus,Begomovirus,GCF_002867455.1,Brazil,2018/8/26,"de Almeida,M.M., Jain,S., Barroso,P.A., Hoffmann,L.V., de Lucena,M.G., Resende Rde,O., Inoue-Nagata,A.K., Almeida,M.M.S., Barroso,P.A.V., Lucena,M.G., Resende,R.O.",Gossypium hirsutum,
+Cotton leaf crumple virus,Begomovirus,GCF_000845165.1,Mexico: Sonora,2015/2/12,"Brown,J.K., Idris,A.M.",Gossypium hirsutum,
+Cotton leaf curl Alabad virus,Begomovirus,GCF_000842045.1,,2015/2/12,"Zhou,X., Liu,Y., Robinson,D.J., Harrison,B.D.",,
+Cotton leaf curl Bangalore virus,Begomovirus,GCF_000865045.1,India,2015/2/13,"Chowda Reddy,R.V., Muniyappa,V., Colvin,J., Seal,S.",,
+Cotton leaf curl Barasat virus,Begomovirus,,India,,,,Bemisia tabaci
+Cotton leaf curl Gezira virus,Begomovirus,GCF_000838805.1,Egypt: Aswan,2015/2/12,"Bigarre,L., Chazly,M., Salah,M., Ibrahim,M., Padidam,M., Nicole,M., Peterschmitt,M., Fauquet,C., Thouvenel,J.C., Thouvenel,J.",,
+Cotton leaf curl Kokhran virus,Begomovirus,GCF_000840425.1,,2015/2/12,"Zhou,X., Liu,Y., Robinson,D.J., Harrison,B.D.",,
+Cotton leaf curl Multan virus,Begomovirus,GCF_000839845.1,"India: Rajasthan, Sriganganagar",2015/2/12,"Radhakrishnan,G., Malathi,V.G., Varma,A.",Amaranthus sp.,
+Cotton yellow mosaic virus,Begomovirus,GCF_001669825.1,Benin,2016/6/19,"Leke,W.N., Khatabi,B., Mignouna,D.B., Brown,J.K., Fondong,V.N.",Gossypium hirsutum,
+Cowpea bright yellow mosaic virus,Begomovirus,GCF_013088025.1,Brazil,2021/6/1,"Naito,F.Y.B., Melo,F.L., Fonseca,M.E.N., Santos,C.A.F., Chanes,C.R., Ribeiro,B.M., Carvalho,R.C.P., Boiteux,L.S.",Vigna unguiculata,
+Cowpea golden mosaic virus,Begomovirus,,Nigeria,,,,Bemisia tabaci
+Crassocephalum yellow vein virus,Begomovirus,GCF_000869725.1,China,2015/2/13,"Dong,J.H., Zhang,Z.K., Ding,M., Fang,Q., Zhou,H.",Crassocephalum crepidioidesArtemisia carvifoliaBaliospermum solanifoliumBenincasa hispida,Bemisia tabaci
+Croton golden mosaic virus,Begomovirus,GCF_013087355.1,Colombia,2021/6/1,"Vaca-Vaca,J.C., Jara-Tejada,F., Lopez-Lopez,K.",Croton hirtus,Bemisia tabaci
+Croton yellow vein mosaic virus,Begomovirus,GCF_000857305.1,India,2015/2/13,"Mandal,B., Pappu,H.R., Muniyappa,V.",Croton bonplandianus,
+Cucumber chlorotic leaf virus,Begomovirus,GCF_018587415.1,Mexico,2021/6/1,"Cardenas-Conejo,Y.",Cucumis sativus,
+Cucurbit leaf crumple virus,Begomovirus,GCF_000837305.1,USA: Imperial Valley of California,2015/2/12,"Guzman,P., Sudarshana,M.R., Seo,Y.-S., Rojas,M.R., Natwick,E., Turini,T., Mayberry,K., Gilbertson,R.L., Hernandez,N.A.",,
+Dalechampia chlorotic mosaic virus,Begomovirus,GCF_000900175.1,Venezuela,2015/2/22,"Fiallo-Olive,E., Chirinos,D.T., Geraud-Pouey,F., Moriones,E., Navas-Castillo,J., Chirinos,D.",Dalechampia sp.,Bemisia tabaci
+Datura leaf curl virus,Begomovirus,GCF_004788495.1,Sudan,2019/6/28,"Mohammed,H.S., El Siddig,M.A., El Hussein,A.A., Navas-Castillo,J., Fiallo-Olive,E., Mohammed,H.",Datura inoxia,Bemisia tabaci
+Datura leaf distortion virus,Begomovirus,GCF_000897735.1,Venezuela,2015/2/22,"Fiallo-Olive,E., Chirinos,D.T., Geraud-Pouey,F., Moriones,E., Navas-Castillo,J., Chirinos,D.",Datura stramonium,Bemisia tabaci
+Deinbollia mosaic virus,Begomovirus,GCF_001619035.1,Tanzania,2016/4/13,"Kyallo,M., Sseruwagi,P., Skilton,R.A., Ochwo-Ssemakula,M., Wasswa,P., Ndunguru,J., Skilton,R., Ssemakula,M.",Deinbollia borbonica,Bemisia tabaci
+Desmodium leaf distortion virus,Begomovirus,GCF_000869465.1,Mexico: Yucatan,2015/2/13,"Hernandez-Zepeda,C., Idris,A.M., Carnevali,G., Brown,J.K., Moreno-Valenzuela,O.A.",Desmodium sp.,Bemisia tabaci
+Desmodium mottle virus,Begomovirus,GCF_003029545.2,Uganda,2018/12/27,"Mollel,H.G., Sseruwagi,P., Ndunguru,J., Alicai,T., Colvin,J., Navas-Castillo,J., Fiallo-Olive,E.",Desmodium sp.,Bemisia tabaci
+Dicliptera yellow mottle Cuba virus,Begomovirus,,Cuba,,,,Bemisia tabaci
+Dolichos yellow mosaic virus,Begomovirus,GCF_001343705.1,India,2015/10/17,"Akram,M., Naimuddin, Agnihotri,A.K., Gupta,S.",Lablab purpureus,Bemisia tabaci
+Duranta leaf curl virus,Begomovirus,GCF_003029245.1,Pakistan: Bhera,2018/8/26,"Anwar,S., Tahir,M.",Duranta erecta,Bemisia tabaci
+East African cassava mosaic Cameroon virus,Begomovirus,GCF_000858965.1,,2015/2/13,"Fondong,V.N., Pita,J.S., Rey,M.E., de Kochko,A., Beachy,R.N., Fauquet,C.M., Fondong,V., Kochko de,A., Fauquet,C.",,Bemisia tabaci
+East African cassava mosaic Kenya virus,Begomovirus,GCF_000882315.1,"Kenya:Machakos, Mitaboni/Ngiini",2015/2/22,"Bull,S.E., Briddon,R.W., Sserubombwe,W.S., Ngugi,K., Markham,P.G., Stanley,J.",Manihot esculenta,Bemisia tabaci
+East African cassava mosaic Malawi virus,Begomovirus,GCF_000912855.1,Malawi,2015/2/22,"Nawaz-ul-Rehman,M.S., Fauquet,C.M.",Manihot esculenta,Bemisia tabaci
+East African cassava mosaic virus,Begomovirus,GCF_000859785.1,Uganda,2015/2/13,"Pita,J.S., Fondong,V.N., Sangare,A., Otim-Nape,G.W., Ogwal,S., Fauquet,C.M., Beachy,R.N.",,Bemisia tabaci
+East African cassava mosaic Zanzibar virus,Begomovirus,GCF_000845125.1,"Tanzania: Zanzibar, Uguja Island",2015/2/12,"Maruthi,M.N., Seal,S., Colvin,J., Briddon,R.W., Bull,S.E., Seal,S.E.",Manihot esculenta,Bemisia tabaci
+Eclipta yellow vein virus,Begomovirus,GCF_000895255.1,Pakistan,2015/2/22,"Khatri,S.M., Nawaz-ul-Rehman,M.S., Fauquet,C.M.",Eclipta prostrataArtemisia carvifoliaBaliospermum solanifoliumBenincasa hispida,Bemisia tabaci
+Emilia yellow vein Fujian virus,Begomovirus,GCF_013088295.1,China: Fujian province,2021/6/1,"Liu,Z.",Emilia sonchifoliaArtemisia carvifoliaBaliospermum solanifoliumBenincasa hispida,Bemisia tabaci
+Emilia yellow vein Thailand virus,Begomovirus,,Thailand,,,,Bemisia tabaci
+Emilia yellow vein virus,Begomovirus,GCF_000879075.1,China,2015/2/22,"Yang,C.X., Wu,Z.J.",Emilia sonchifoliaArtemisia carvifoliaBaliospermum solanifoliumBenincasa hispida,Bemisia tabaci
+Erectites yellow mosaic virus,Begomovirus,GCF_000873285.1,Viet Nam: Hoabinh,2015/2/13,"Ha,C., Coombs,S., Revill,P., Harding,R., Vu,M., Dale,J., Ha,C.V., Revill,P.A., Harding,R.M., Vu,M.T., Dale,J.L.",Erechtites valerianifolius,Bemisia tabaci
+Eupatorium yellow vein mosaic virus,Begomovirus,GCF_000838325.1,,2015/2/12,"Onuki,M., Hanada,K.",,Bemisia tabaci
+Eupatorium yellow vein virus,Begomovirus,GCF_002822325.1,Japan: Yamaguchi prefecture,2019/6/28,"Kitamura,K., Murayama,A., Ikegami,M.",Eupatorium makinoi,Bemisia tabaci
+Euphorbia leaf curl Guangxi virus,Begomovirus,GCF_002986585.1,China:Guangxi province,2018/8/26,"Xu,Y.P., Zhou,X.P.",Euphorbia pulcherrimaBoehmeria leiophylla,Bemisia tabaci
+Euphorbia leaf curl virus,Begomovirus,GCF_000843385.1,China:Guangxi,2015/2/12,"Ma,X., Cai,J., Li,G., Qin,B., Zhou,X.",Euphorbia pulcherrima,Bemisia tabaci
+Euphorbia mosaic Peru virus,Begomovirus,GCF_003034025.1,"Peru:Santa Maria, Machu Pichu",2018/8/26,"Shepherd,D.N., Martin,D.P., Lefeuvre,P., Monjane,A.L., Owor,B.E., Rybicki,E.P., Varsani,A.",Euphorbia heterophylla,Bemisia tabaci
+Euphorbia mosaic virus,Begomovirus,GCF_000869345.1,Mexico: Yucatan,2015/2/13,"Hernandez-Zepeda,C., Idris,A.M., Carnevali,G., Brown,J.K., Moreno-Valenzuela,O.A.",Euphorbia heterophylla,Bemisia tabaci
+Euphorbia yellow leaf curl virus,Begomovirus,GCF_003029205.1,Pakistan,2018/8/26,"Riaz,H., Ashfaq,M.",Euphorbia pulcherrima,Bemisia tabaci
+Euphorbia yellow mosaic virus,Begomovirus,GCF_000882835.1,Brazil,2015/2/22,"Fernandes,F.R., Albuquerque,L.C., de Oliveira,C.L., Cruz,A.R., da Rocha,W.B., Pereira,T.G., Naito,F.Y., Dias Nde,M., Nagata,T., Faria,J.C., Zerbini,F.M., Aragao,F.J., Inoue-Nagata,A.K., Sousa,A.R.R.C., Aragao,F.J.L.",Euphorbia heterophylla,Bemisia tabaci
+French bean leaf curl virus,Begomovirus,GCF_000899775.1,India,2015/2/22,"Kamaal,N., Akram,M., Pratap,A., Yadav,P., Naimuddin",Phaseolus vulgaris,Bemisia tabaci
+Hedyotis uncinella yellow mosaic virus,Begomovirus,GCF_002822405.1,Viet Nam: Phu My,2018/8/25,"Du,Z., Chen,M., Wang,Z., Liu,Y., Zhang,S., He,Z.",,Bemisia tabaci
+Hemidesmus yellow mosaic virus,Begomovirus,GCF_000911895.1,India: Tirupati,2015/2/22,"Reddy,M.S., Kanakala,S., Srinivas,K.P., Hema,M., Malathi,V.G., Sreenivasulu,P., Sreekanth Reddy,M.",Hemidesmus indicus,Bemisia tabaci
+Hibiscus yellow vein leaf curl virus,Begomovirus,,Taiwan,,,Boehmeria sp.,Bemisia tabaci
+Hollyhock leaf curl virus,Begomovirus,GCF_002986605.1,Pakistan:Faisalabad,2018/8/26,"Zia Ur Rehman,M., Haider,M.S., Zia ur Rehman,M.",Alcea rosea,
+Hollyhock yellow vein mosaic virus,Begomovirus,GCF_000896675.1,Pakistan:Lahore,2015/2/22,"Zia Ur Rehman,M., Haider,M.S., Zia ur Rehman,M.",Alcea rosea,
+Hollyhock yellow vein virus,Begomovirus,GCF_013088155.1,India,2021/6/1,,Alcea rosea,
+Horsegram yellow mosaic virus,Begomovirus,GCF_000840965.1,India:Tamil Nadu,2015/2/12,"Barnabas,A.D., Girish,K.R., Usha,R.",Macrotyloma uniflorum,
+Hybanthus yellow mosaic virus,Begomovirus,GCF_018580615.1,Colombia,2021/6/1,"Lopez-Lopez,K., Jara-Tejada,F., Vaca-Vaca,J.C.",Pombalia attenuata,Bemisia tabaci
+Indian cassava mosaic virus,Begomovirus,GCF_000846665.1,,2015/2/12,"Hong,Y.G., Robinson,D.J., Harrison,B.D., Hong,Y.",,Bemisia tabaci
+Jacquemontia mosaic Yucatan virus,Begomovirus,GCF_002867555.1,"Mexico: Yucatan, Merida",2018/8/26,"Torres-Herrera,I., Cardenas-Conejo,Y., Ambriz-Granados,S., Moreno-Valenzuela,O., Arguello-Astorga,G.R.",Jacquemontia sp.,Bemisia tabaci
+Jacquemontia yellow mosaic virus,Begomovirus,GCF_003029025.2,Venezuela,2018/12/27,"Fiallo-Olive,E., Chirinos,D.T., Geraud-Pouey,F., Moriones,E., Navas-Castillo,J.",Jacquemontia sp.,Bemisia tabaci
+Jacquemontia yellow vein virus,Begomovirus,GCF_004788095.1,Venezuela: Zulia,2019/6/28,"Fiallo-Olive,E., Chirinos,D.T., Geraud-Pouey,F., Navas-Castillo,J.",Jacquemontia sp.,Bemisia tabaci
+Jatropha leaf curl Gujarat virus,Begomovirus,GCF_003029055.1,India,2018/8/26,"Agarwal,P., More,P., Agarwal,P.K.",Jatropha sp.,Bemisia tabaci
+Jatropha leaf curl virus,Begomovirus,GCF_000880535.1,India,2015/2/22,"Pal,A., Mukherjee,S.",Jatropha sp.,Bemisia tabaci
+Jatropha leaf yellow mosaic virus,Begomovirus,GCF_003028955.1,"India: Katerniaghat Wildlife Sanctuary, Bahraich, UP",2018/8/26,"Srivastava,A., Kumar,S., Jaidi,M., Raj,S.K., Snehi,S.K.",Jatropha sp.,Bemisia tabaci
+Jatropha mosaic India virus,Begomovirus,GCF_002822725.1,"India: U.P., Lucknow",2018/8/25,"Snehi,S.K., Raj,S.K., Prasad,V.",Jatropha sp.,Bemisia tabaci
+Jatropha mosaic Nigeria virus,Begomovirus,GCF_000900435.1,Nigeria,2015/2/22,"Kashina,B.D., Alegbejo,M.D., Banwo,O.O., Nielsen,S.L., Nicolaisen,M.",Jatropha sp.,Bemisia tabaci
+Jatropha mosaic virus,Begomovirus,GCF_000919175.1,Jamaica: Spanish Town,2015/2/22,"Simmonds-Gordon,R., Collins-Fairclough,A., Stewart,C., Roye,M.",Jatropha sp.,Bemisia tabaci
+Jatropha yellow mosaic virus,Begomovirus,GCF_000881575.2,"India: Kathaupahadi, Tikamgarh, Madhya Pradesh",2017/10/11,"Snehi,S.K., Raj,S.K., Khan,M.S., Prasad,V., Kumar,S.",Jatropha sp.,Bemisia tabaci
+Kudzu mosaic virus,Begomovirus,GCF_000870965.1,Viet Nam: Hoabinh,2015/2/13,"Ha,C., Coombs,S., Revill,P., Harding,R., Vu,M., Dale,J., Ha,C.V., Revill,P.A., Harding,R.M., Vu,M.T., Dale,J.L.",Pueraria montanaCapsicum annuum,
+Leonurus mosaic virus,Begomovirus,GCF_002822745.1,Brazil,2018/8/25,"Fonseca,M.E.N., Boiteux,L.S., Fernandes-Acioli,N.A.N., Costa,A.F., Kitajima,E.W.",Leonurus sibiricus,Bemisia tabaci
+Lindernia anagallis yellow vein virus,Begomovirus,GCF_000873925.1,Viet Nam: Hanoi,2015/2/13,"Ha,C., Coombs,S., Revill,P., Harding,R., Vu,M., Dale,J., Ha,C.V., Revill,P.A., Harding,R.M., Vu,M.T., Dale,J.L.",Lindernia procumbensCapsicum frutescens,Bemisia tabaci
+Lisianthus enation leaf curl virus,Begomovirus,GCF_001806215.1,Taiwan,2016/10/21,"Chen,Y.K., Chao,H.Y., Chen,Y., Chao,H.",Eustoma exaltatum,Bemisia tabaci
+Ludwigia yellow vein Vietnam virus,Begomovirus,GCF_002822765.1,Viet Nam: Hochiminh,2018/8/25,,Ludwigia octovalvis,Bemisia tabaci
+Ludwigia yellow vein virus,Begomovirus,GCF_000865765.1,China:Guangxi,2015/2/13,"Huang,J., Jiang,T., Zhou,X.",Ludwigia hyssopifoliaCarica papaya,Bemisia tabaci
+Luffa yellow mosaic virus,Begomovirus,GCF_000841445.1,Viet Nam,2015/2/12,"Revill,P.A., Ha,C.V., Porchun,S.C., Vu,M.T., Dale,J.L.",Luffa acutangula,Bemisia tabaci
+Lycianthes yellow mosaic virus,Begomovirus,GCF_003029225.2,China: Guangdong,2018/12/27,"Tang,Y.F., He,Z.F.",Lycianthes biflora,Bemisia tabaci
+Macroptilium bright mosaic virus,Begomovirus,GCF_001777185.1,Brazil,2016/10/19,"Passos,L.S., Teixeira,J.W.M., Lima,K.J., Rodrigues,J.S., Soares,E.C.S., Xavier,C.A.D., Araujo,A.S.F., Zerbini,F.M., Beserra,J.E.A. Jr.",Macroptilium sp.,Bemisia tabaci
+Macroptilium common mosaic virus,Begomovirus,GCF_001777205.1,Brazil,2016/10/19,"Passos,L.S., Teixeira,J.W.M., Lima,K.J., Rodrigues,J.S., Soares,E.C.S., Xavier,C.A.D., Araujo,A.S.F., Zerbini,F.M., Beserra,J.E.A. Jr.",Macroptilium sp.,Bemisia tabaci
+Macroptilium golden mosaic virus,Begomovirus,GCF_000879515.1,Jamaica,2015/2/22,"Collins,A.M., Roye,M.E.",Wissadula amplissima,Bemisia tabaci
+Macroptilium mosaic Puerto Rico virus,Begomovirus,GCF_000846245.1,Puerto Rico,2015/2/12,"Brown,J.K., Idris,A.M., Hiebert,E., Bird,J.",,Bemisia tabaci
+Macroptilium yellow mosaic Florida virus,Begomovirus,GCF_000844525.1,USA: Florida,2015/2/12,"Idris,A.M., Hiebert,E., Bird,J., Brown,J.K.",,Bemisia tabaci
+Macroptilium yellow mosaic virus,Begomovirus,GCF_000848005.1,Jamaica,2015/2/12,"Amarakoon,I.I., Roye,M.E., Briddon,R.W., Bedford,I.D., Stanley,J.",Macroptilium sp.,Bemisia tabaci
+Macroptilium yellow spot virus,Begomovirus,GCF_000895435.1,Brazil,2015/2/22,"Silva,S.J.C., Castillo-Urquiza,G.P., Hora,B.T. Jr., Assuncao,I.P., Lima,G.S.A., Pio-Ribeiro,G., Mizubuti,E.S.G., Zerbini,F.M.",Macroptilium sp.,Bemisia tabaci
+Macroptilium yellow vein virus,Begomovirus,GCF_000896915.1,Brazil,2015/2/22,"Silva,S.J.C., Castillo-Urquiza,G.P., Hora,B.T. Jr., Assuncao,I.P., Lima,G.S.A., Pio-Ribeiro,G., Mizubuti,E.S.G., Zerbini,F.M.",Macroptilium sp.,Bemisia tabaci
+Malvastrum bright yellow mosaic virus,Begomovirus,GCF_001777305.1,USA,2016/10/19,"Alabi,O.J., Villegas,C., Gregg,L., Murray,K.D., Gregg,L.L.",Malvastrum sp.,Bemisia tabaci
+Malvastrum leaf curl virus,Begomovirus,GCF_000866145.1,China:Guangxi,2015/2/13,"Huang,J., Zhou,X., Zhou,X.P.",Malvastrum coromandelianumClerodendrum bungei,Bemisia tabaci
+Malvastrum yellow mosaic Helshire virus,Begomovirus,GCF_002822785.1,Jamaica,2018/8/25,"Graham,A.P., Roye,M.E.",Malvastrum americanum,Bemisia tabaci
+Malvastrum yellow mosaic Jamaica virus,Begomovirus,GCF_002867575.1,Jamaica,2018/8/26,"Graham,A.P., Roye,M.E.",Malvastrum americanum,Bemisia tabaci
+Malvastrum yellow mosaic virus,Begomovirus,GCF_000867765.1,,2015/2/13,"Guo,X., Shi,M., Zhou,X.",Clerodendrum sp.,Bemisia tabaci
+Malvastrum yellow vein Cambodia virus,Begomovirus,GCF_000969115.1,Cambodia,2015/4/6,"Tang,Y.F., He,Z.F.",Malvastrum coromandelianum,Bemisia tabaci
+Malvastrum yellow vein Honghe virus,Begomovirus,GCF_001706885.1,China:Yunnan Province,2016/8/18,"Liu,P., Zhou,X.P.",Malvastrum coromandelianum,Bemisia tabaci
+Malvastrum yellow vein Lahore virus,Begomovirus,GCF_013087685.1,Pakistan: Lahore,2021/6/1,"Zia Ur Rehman,M., Hameed,U., Iqbal,M.J., Ilyas,M., Haider,M.S., Brown,J.K.",Malvastrum coromandelianum,Bemisia tabaci
+Malvastrum yellow vein virus,Begomovirus,GCF_000842105.1,China:Yunnan,2015/2/12,"Zhou,X., Xie,Y., Peng,Y., Zhang,Z.",Corchoropsis tomentosa,Bemisia tabaci
+Malvastrum yellow vein Yunnan virus,Begomovirus,GCF_000857485.1,China:Yunnan,2015/2/13,"Jiang,T., Zhou,X.",Malvastrum coromandelianumCorchorus capsularis,Bemisia tabaci
+Melochia mosaic virus,Begomovirus,GCF_001430075.1,Brazil,2015/11/3,"Fiallo-Olive,E., Zerbini,F.M., Navas-Castillo,J.",Melochia sp.,Bemisia tabaci
+Melochia yellow mosaic virus,Begomovirus,GCF_001430275.1,Brazil,2015/11/3,"Fiallo-Olive,E., Zerbini,F.M., Navas-Castillo,J.",Melochia sp.,Bemisia tabaci
+Melon chlorotic leaf curl virus,Begomovirus,GCF_001430695.1,Guatemala,2015/11/3,"Brown,J.K., Idris,A.M., Rogan,D., Hussein,M.H., Palmieri,M., Mills-Lujan,K., Martin,K.",,
+Melon chlorotic mosaic virus,Begomovirus,GCF_000887515.1,Venezuela,2015/2/22,"Romay,G., Chirinos,D., Geraud-Pouey,F., Desbiez,C., Geraud,F.",Citrullus lanatus,
+Merremia mosaic Puerto Rico virus,Begomovirus,GCF_000892695.1,Puerto Rico,2015/2/22,"Idris,A.M., Brown,J.K.",Distimake quinquefolius,Bemisia tabaci
+Merremia mosaic virus,Begomovirus,GCF_000867165.1,Puerto Rico,2015/2/13,"Brown,J.K., Idris,A.M., Torres-Jerez,I., Banks,G.K., Wyatt,S.D., Baumann,K., Bird,J.",,Bemisia tabaci
+Mesta yellow vein mosaic Bahraich virus,Begomovirus,GCF_000879475.1,"India: North India, Bahraich",2015/2/22,"Das,S., Ghosh,R., Paul,S., Roy,A., Ghosh,S.K., Das,A., Palit,P., Acharyya,S., Mir,J.I.",Hibiscus sp.,Bemisia tabaci
+Mimosa yellow leaf curl virus,Begomovirus,GCF_000870825.1,Viet Nam: Binhduong,2015/2/13,"Ha,C., Coombs,S., Revill,P., Harding,R., Vu,M., Dale,J., Ha,C.V., Revill,P.A., Harding,R.M., Vu,M.T., Dale,J.L.",Mimosa sp.,Bemisia tabaci
+Mirabilis leaf curl virus,Begomovirus,GCF_000923935.1,"India:Kangra, Himachal Pradesh",2015/2/22,"Kulshreshtha,A., Sharma,D., Hallan,V., Zaidi,A.A.",Mirabilis jalapa,Bemisia tabaci
+Mungbean yellow mosaic India virus,Begomovirus,GCF_000858565.1,,2015/2/13,"Pant,V., Gupta,D., Choudhury,N.R., Malathi,V.G., Varma,A., Mukherjee,S.K.",,
+Mungbean yellow mosaic virus,Begomovirus,GCF_000845225.1,,2015/2/12,"Gutierrez,C., Morinaga,T., Ikegami,M., Miura,K.",,
+Ocimum golden mosaic virus,Begomovirus,GCF_018589025.1,Uganda,2021/6/1,,Ocimum gratissimum,Bemisia tabaci
+Ocimum mosaic virus,Begomovirus,GCF_018589045.1,Uganda,2021/6/1,,Ocimum gratissimum,Bemisia tabaci
+Ocimum yellow vein virus,Begomovirus,GCF_018589035.1,Uganda,2021/6/1,,Ocimum gratissimum,Bemisia tabaci
+Okra enation leaf curl virus,Begomovirus,GCF_000887915.1,"India: Munthal, Haryana",2015/2/22,"Venkataravanappa,V., Lakshminarayana Reddy,C.N., Jalali,S., Krishna Reddy,M., Lakshiminarayanareddy,C.N., Devaraju, Swaranalatha,P., Krishnareddy,M.",Abelmoschus esculentus,
+Okra leaf curl Oman virus,Begomovirus,GCF_001504015.1,Oman:Barka,2016/1/7,"Khan,A.J., Akhtar,S.",Abelmoschus esculentus,
+Okra mottle virus,Begomovirus,GCF_000875625.1,Brazil,2015/2/13,"Aranha,S.A., Inoue-Nagata,A.K.",Abelmoschus esculentus,
+Okra yellow crinkle virus,Begomovirus,GCF_000867665.1,Mali,2015/2/13,"Shih,S.L., Green,S.K., Tsai,W.S., Lee,L.M., Levasseur,V.",,
+Okra yellow mosaic Mexico virus,Begomovirus,GCF_000889735.1,Mexico: Morelos,2015/2/22,"De La Torre-Almaraz,R., Monsalvo-Reyes,A., Ambriz-Granados,S., Arguello-Astorga,G.R., Monsalvo-Reyes,R., De la Torre-Almaraz,R., Mauricio-Castillo,J.A.",Abelmoschus esculentus,
+Oxalis yellow vein virus,Begomovirus,GCF_000928355.1,USA,2015/2/22,"Herrera,F., Aboughanem-Sabanadzovic,N., Valverde,R.",Oxalis debilis,Bemisia tabaci
+Papaya leaf crumple virus,Begomovirus,GCF_000887775.1,India: Haryana,2015/2/22,"Singh-Pant,P., Pant,P., Mukherjee,S.K., Mazumdar-Leighton,S., Singh,P.",Carica papaya,
+Papaya leaf curl China virus,Begomovirus,GCF_000846865.1,China:Guangxi,2015/2/12,"Wang,X., Xie,Y., Zhou,X.",Ageratum conyzoidesCorchorus olitorius,
+Papaya leaf curl Guandong virus,Begomovirus,GCF_000845145.1,China:Guangxi,2015/2/12,"Wang,X., Xie,Y., Zhou,X.",Carica papayaCrassocephalum crepidioides,
+Papaya leaf curl virus,Begomovirus,GCF_000841085.1,,2015/2/12,"Saxena,S., Hallan,V.",Crassocephalum crepidioides,
+Papaya severe leaf curl virus 1,Begomovirus,,India,,,,Bemisia tabaci
+Papaya severe leaf curl virus 2,Begomovirus,,India,,,,Bemisia tabaci
+Papaya yellow leaf curl virus,Begomovirus,,India,,,,Bemisia tabaci
+Passionfruit leaf curl virus,Begomovirus,,India,,,,Bemisia tabaci
+Passionfruit leaf distortion virus,Begomovirus,GCF_001876915.1,Colombia,2016/11/13,"Vaca-Vaca,J.C., Carrasco-Lozano,E.C., Lopez-Lopez,K., Carrasco-Lozano,E.",Passiflora edulis,
+Passionfruit severe leaf distortion virus,Begomovirus,GCF_000883955.1,Brazil,2015/2/22,"Ferreira,S.S., Barros,D.R., de Almeida,M.R., Zerbini,F.M., Almeida,M.R.",Passiflora edulis,
+Pavonia mosaic virus,Begomovirus,GCF_003029255.2,Brazil,2018/12/27,"Pinto,V.B., Silva,J.P., Fiallo-Olive,E., Navas-Castillo,J., Zerbini,F.M.",Pavonia sp.,Bemisia tabaci
+Pavonia yellow mosaic virus,Begomovirus,GCF_001551525.2,Brazil,2018/6/16,"Pinto,V.B., Silva,J.P., Fiallo-Olive,E., Navas-Castillo,J., Zerbini,F.M.",Pavonia sp.,Bemisia tabaci
+Pea leaf distortion virus,Begomovirus,GCF_001974515.1,Nepal,2017/1/29,"Shahid,M.S., Pudashini,B.J., Khatri-Chhetri,G.B., Briddon,R.W., Natsuaki,K.T.",Pisum sativum,
+Pedilanthus leaf curl virus,Begomovirus,GCF_000868385.1,Pakistan: Rahim Yar Khan,2015/2/13,"Tsai,W.-S., Green,S.K., Behjatnia,S.A.A., Rezaian,A., Iram,S., Mansoor",Solanum lycopersicum,
+Pepper blistering leaf virus,Begomovirus,GCF_018589445.1,Argentina,2021/6/1,"Bornancini,V.A., Irazoqui,J.M., Flores,C.R., Vaghi Medina,C.G., Amadio,A.F., Lopez Lambertini,P.M., Irazoqui,M.",Capsicum sp.,
+Pepper golden mosaic virus,Begomovirus,GCF_000842765.1,,2015/2/12,"Torres-Pacheco,I., Garzon-Tiznado,J.A., Brown,J.K., Becerra-Flora,A., Rivera-Bustamante,R.F., Mendez-Lozano,J., Fauquet,C.M.",,
+Pepper huasteco yellow vein virus,Begomovirus,GCF_000839505.1,,2015/2/12,"Torres-Pacheco,I., Garzon-Tiznado,J.A., Herrera-Estrella,L., Rivera-Bustamante,R.F., Rivera-Bustamante,R.",,
+Pepper leaf curl Bangladesh virus,Begomovirus,GCF_000842805.1,Bangladesh: Bogra,2015/2/12,"Tsai,W.S., Green,S.K., Rashid,M.H.",,
+Pepper leaf curl Lahore virus,Begomovirus,GCF_000894415.1,"Pakistan:Punjab, Lahore",2015/2/22,"Tahir,M., Haider,M.S., Briddon,R.W.",Capsicum sp.,
+Pepper leaf curl virus,Begomovirus,GCF_000838585.1,,2015/2/12,"Chiemsombat,P., Warin,N., Attathom,S., Chatchawankarnpanich,O.",,
+Pepper leaf curl Yunnan virus,Begomovirus,GCF_000879915.1,China,2015/2/22,"Ding,M., Yue,N., Zhang,Z.",Capsicum sp.Cucumis melo,
+Pepper leafroll virus,Begomovirus,GCF_004787035.1,"Peru: La Libertad, San Carlos Alto",2019/6/28,"Martinez-Ayala,A., Sanchez-Campos,S., Aragon-Caballero,L., Navas-Castillo,J., Moriones,E.",Capsicum sp.,
+Pepper yellow leaf curl Aceh virus,Begomovirus,GCF_013088375.1,Indonesia,2021/6/1,"Kesumawati,E., Okabe,S., Homma,K., Fujiwara,I., Zakaria,S., Kanzaki,S., Koeda,S.",Capsicum sp.,
+Pepper yellow leaf curl Indonesia virus,Begomovirus,GCF_000867505.1,Indonesia,2015/2/13,"Sakata,J.J., Shibuya,Y., Sharma,P., Ikegami,M., Sakata,J.",,
+Pepper yellow leaf curl Indonesia virus 2,Begomovirus,GCF_004787615.1,Indonesia,2021/6/1,"Jamsari,J., Ferita,I., Noverta,A., Husada,E.D., Herberg,F.W., Nellen,W., Syukriani,L.",Capsicum sp.,
+Pepper yellow leaf curl Thailand virus,Begomovirus,GCF_001502775.2,Thailand,2018/12/27,"Chiemsombat,P., Srikhamphung,B.",Capsicum sp.,
+Pepper yellow leaf curl virus,Begomovirus,GCF_000905155.1,China,2015/2/22,"Ruan,T., Qing,L.",PiperaceaeCucurbita moschata,
+Pepper yellow vein Mali virus,Begomovirus,GCF_000840925.1,Mali,2015/2/12,"Zhou,Y.C., Noussourou,M., Kon,T., Rojas,M.R., Jiang,H., Chen,L.F., Gamby,K., Foster,R., Gilbertson,R.L., Zhou,Y., Chen,L.",,
+Polygala garcinii virus,Begomovirus,,ZA-1-1-12,,,,Bemisia tabaci
+Potato yellow mosaic Panama virus,Begomovirus,GCF_000839305.1,,2015/2/12,"Engel,M., Fernandez,O., Jeske,H., Frischmuth,T.",,
+Potato yellow mosaic virus,Begomovirus,GCF_000838665.1,,2015/2/12,"Fontes,E.P., Eagle,P.A., Sipe,P.S., Luckow,V.A., Hanley-Bowdoin,L., Coutts,R.H., Coffin,R.S., Roberts,E.J., Hamilton,W.D., Gladfelter,H.J., Schaffer,R.L., Petty,I.T.",,
+Pouzolzia golden mosaic virus,Begomovirus,GCF_000918895.1,China,2015/2/22,"Tang,Y.F., Du,Z.G., He,Z.F., She,X.M., Cai,J.H.",Pouzolzia zeylanicaDatura stramonium,Bemisia tabaci
+Pouzolzia mosaic Guangdong virus,Begomovirus,GCF_002823205.1,China: Guangdong,2018/8/25,"Tang,Y.F., Du,Z.G., He,Z.F., Brown,J.K., She,X.M.",Pouzolzia zeylanica,Bemisia tabaci
+Pouzolzia yellow mosaic virus,Begomovirus,,Taiwan,,,,Bemisia tabaci
+Premna leaf curl virus,Begomovirus,GCF_002823225.1,Viet Nam,2018/8/25,"She,X., He,Z., Brown,J.K.",Premna serratifolia,Bemisia tabaci
+Pumpkin yellow mosaic virus,Begomovirus,GCF_000874505.1,Malaysia: Negeri Sembilan,2015/2/13,"Tsai,W.S., Shih,S.L., Roff,M.M.N., Green,S.K.",,
+Ramie mosaic Yunnan virus,Begomovirus,GCF_001698395.1,China,2016/8/3,"Zhao,L.L., Zhong,J., Zhang,X.Y., Yin,Y.Y., Zhang,Z.K., Ding,M.",Boehmeria sp.,
+Rhynchosia golden mosaic Havana virus,Begomovirus,GCF_002867595.1,Cuba: Havana,2018/8/26,"Fiallo-Olive,E., Navas-Castillo,J., Moriones,E., Martinez-Zubiaur,Y.",Rhynchosia minima,Bemisia tabaci
+Rhynchosia golden mosaic Sinaloa virus,Begomovirus,GCF_002867615.1,"Mexico: Los Mochis, Sinaloa",2018/8/26,"Mauricio-Castillo,J.A., Arguello-Astorga,G.R., Mendez-Lozano,J.",Rhynchosia minima,Bemisia tabaci
+Rhynchosia golden mosaic virus,Begomovirus,GCF_008802995.1,Mexico,2018/4/3,"Mauricio-Castillo,J.A., Mendez-Lozano,J., Perea-Araujo,L., Arguello-Astorga,G.R.",Glycine max,Bemisia tabaci
+Rhynchosia mild mosaic virus,Begomovirus,GCF_000891055.1,Puerto Rico,2015/2/22,"Zhao,Z.C., Hu,G.B., Hu,F.C., Wang,H.C., Yang,Z.Y., Lai,B., Idris,A.M., Brown,J.K.",Rhynchosia minima,Bemisia tabaci
+Rhynchosia rugose golden mosaic virus,Begomovirus,GCF_002867635.1,Cuba: Camaguey,2018/8/26,"Fiallo-Olive,E., Navas-Castillo,J., Moriones,E., Martinez-Zubiaur,Y.",Rhynchosia minima,Bemisia tabaci
+Rhynchosia yellow mosaic India virus,Begomovirus,GCF_000887955.1,India,2015/2/22,"Jyothsna,P., Rawat,R., Malathi,V.G.",Rhynchosia sp.,Bemisia tabaci
+Rhynchosia yellow mosaic virus,Begomovirus,GCF_002986835.1,Pakistan:Lahore,2018/8/26,"Ilyas,M., Qazi,J., Mansoor,S., Briddon,R.W.",Rhynchosia minima,Bemisia tabaci
+Rose leaf curl virus,Begomovirus,GCF_000921455.1,India,2015/2/22,"Nehra,C., Sahu,A.K., Gaur,R.K.",Rosa sp.,
+Sauropus leaf curl virus,Begomovirus,GCF_002823285.1,Thailand: Kamphaengsaen,2018/8/25,"Shih,S.L., Tsai,W.S., Lee,L.M., Kenyon,L.",Sauropus androgynus,Bemisia tabaci
+Senecio yellow mosaic virus,Begomovirus,GCF_000860065.1,China:Guangxi,2015/2/13,"Huang,J.F., Zhou,X.P., Cai,J.H., Li,G.X., Zhou,X.",Senecio scandensEuphorbia pulcherrima,Bemisia tabaci
+Senna leaf curl virus,Begomovirus,GCF_001706945.1,India,2016/8/18,"Kumar,J., Alok,A., Tuli,R.",Senna occidentalis,Bemisia tabaci
+Sida angular mosaic virus,Begomovirus,GCF_001777325.1,Brazil,2016/10/19,"Passos,L.S., Teixeira,J.W.M., Lima,K.J., Rodrigues,J.S., Soares,E.C.S., Xavier,C.A.D., Araujo,A.S.F., Zerbini,F.M., Beserra,J.E.A. Jr.",Sida acuta,Bemisia tabaci
+Sida bright yellow mosaic virus,Begomovirus,GCF_003029405.2,Brazil,2018/12/27,"Ferro,C.G., Silva,J.P., Xavier,C.A.D., Godinho,M.T., Lima,A.T.M., Mar,T.B., Lau,D., Zerbini,F.M.",,Bemisia tabaci
+Sida chlorotic leaf virus,Begomovirus,GCF_018587405.1,Mexico,2021/6/1,,Sida sp.,Bemisia tabaci
+Sida chlorotic mottle virus,Begomovirus,GCF_003029395.1,Brazil,2018/8/26,"Ferro,C.G., Silva,J.P., Xavier,C.A.D., Godinho,M.T., Lima,A.T.M., Mar,T.B., Lau,D., Zerbini,F.M.",,Bemisia tabaci
+Sida chlorotic vein virus,Begomovirus,GCF_001777265.1,Brazil,2016/10/19,"Passos,L.S., Teixeira,J.W.M., Lima,K.J., Rodrigues,J.S., Soares,E.C.S., Xavier,C.A.D., Araujo,A.S.F., Zerbini,F.M., Beserra,J.E.A. Jr.",Sida urens,Bemisia tabaci
+Sida ciliaris golden mosaic virus,Begomovirus,GCF_002823305.2,Venezuela:Lara,2020/7/3,"Zambrano,K.A., Marys,E.E., Mendez,N.",Sida ciliaris,Bemisia tabaci
+Sida common mosaic virus,Begomovirus,GCF_002823325.1,Brazil,2018/8/25,"Castillo-Urquiza,G.P., Beserra,J.E. Jr., Bruckner,F.P., Lima,A.T., Varsani,A., Alfenas-Zerbini,P., Murilo Zerbini,F., Beserra,J.E.A. Jr., Lima,A.T.M., Zerbini,P.A., Zerbini,F.M.",Sida rhombifolia,Bemisia tabaci
+Sida golden mosaic Braco virus,Begomovirus,GCF_002823345.1,Jamaica,2018/8/25,"Martin,D.P., Stewart,C.S., Kon,T., Gilbertson,R.L., Roye,M.E.",,Bemisia tabaci
+Sida golden mosaic Brazil virus,Begomovirus,,Brazil,,,,Bemisia tabaci
+Sida golden mosaic Buckup virus,Begomovirus,GCF_000889555.1,Jamaica,2015/2/22,"Stewart,C.S., Kon,T., Gilbertson,R.L., Roye,M.E., Gilbertson,B.L.",,Bemisia tabaci
+Sida golden mosaic Costa Rica virus,Begomovirus,GCF_000840525.1,,2015/2/12,"Hofer,P., Engel,M., Jeske,H., Frischmuth,T., Hoefer,P.",,Bemisia tabaci
+Sida golden mosaic Florida virus,Begomovirus,GCF_000888515.1,Cuba: Havana,2015/2/22,"Fiallo-Olive,E., Martinez-Zubiaur,Y., Moriones,E., Navas-Castillo,J.",Malvastrum coromandelianum,Bemisia tabaci
+Sida golden mosaic Lara virus,Begomovirus,GCF_002823385.1,Venezuela:Lara,2018/8/25,"Zambrano,K.A., Marys,E.E., Mendez,N.",,Bemisia tabaci
+Sida golden mosaic virus,Begomovirus,GCF_000837905.1,,2015/2/12,"Abouzid,A.M., Polston,J.E., Hiebert,E.",,Bemisia tabaci
+Sida golden mottle virus,Begomovirus,GCF_000888355.1,"USA: Bradenton, Florida",2015/2/22,"Al-Aqeel,H.A., Polston,J.E.",,Bemisia tabaci
+Sida golden yellow vein virus,Begomovirus,GCF_000840485.1,Jamaica,2015/2/12,"Stewart,C.S., Kon,T., Gilbertson,R.L., Roye,M.E., Gilbertson,B.L.",,Bemisia tabaci
+Sida interveinal bright yellow virus,Begomovirus,GCF_018591025.1,Mexico: Queretaro,2021/6/1,"Sanchez-Luna,S., Martinez-Marrero,N., Avalos-Calleros,J.A., Ambriz-Granados,S., Arguello-Astorga,G.R.",Sida sp.,Bemisia tabaci
+Sida micrantha mosaic virus,Begomovirus,GCF_000840905.1,Brazil,2015/2/12,"Jovel,J., Reski,G., Rothenstein,D., Ringel,M., Frischmuth,T., Jeske,H.",,Bemisia tabaci
+Sida mosaic Alagoas virus,Begomovirus,GCF_000895795.1,Brazil,2015/2/22,"Wyant,P.S., Strohmeier,S., Schafer,B., Krenz,B., Assuncao,I.P., Lima,G.S., Jeske,H., Schaefer,B., Lima,G.S.A.",,Bemisia tabaci
+Sida mosaic Bolivia virus 1,Begomovirus,GCF_000893095.1,Bolivia,2015/2/22,"Wyant,P.S., Gotthardt,D., Schafer,B., Krenz,B., Jeske,H.",,Bemisia tabaci
+Sida mosaic Bolivia virus 2,Begomovirus,GCF_000891535.1,Bolivia,2015/2/22,"Wyant,P.S., Gotthardt,D., Schafer,B., Krenz,B., Jeske,H.",,Bemisia tabaci
+Sida mosaic Sinaloa virus,Begomovirus,GCF_000867305.1,Mexico,2015/2/13,"Mauricio-Castillo,J.A., Arguello-Astorga,G.R., Mendez-Lozano,J.",,Bemisia tabaci
+Sida mottle Alagoas virus,Begomovirus,GCF_000904175.1,Brazil,2015/2/22,"Tavares,S.S., Ramos-Sobrinho,R., Gonzales-Aguilera,J., Lima,G.S.A., Assuncao,I.P., Zerbini,F.M.",Sida urens,Bemisia tabaci
+Sida mottle virus,Begomovirus,GCF_000841285.1,,2015/2/12,"Fontes,E.P.B., Fernandes,A.V., Mariano,A.C., Galvao,R.M., Zerbini,F.M.",,Bemisia tabaci
+Sida yellow blotch virus,Begomovirus,GCF_000905175.1,Brazil,2015/2/22,"Tavares,S.S., Ramos-Sobrinho,R., Gonzales-Aguilera,J., Lima,G.S.A., Assuncao,I.P., Zerbini,F.M.",Sida urens,Bemisia tabaci
+Sida yellow golden mosaic virus,Begomovirus,GCF_018582795.1,Brazil,2021/6/1,"Macedo,M., Moraes,C., Gilbertson,R., Inoue Nagata,A.",Sida sp.,Bemisia tabaci
+Sida yellow leaf curl virus,Begomovirus,GCF_002823465.1,Brazil,2018/8/25,"Castillo-Urquiza,G.P., Beserra,J.E. Jr., Bruckner,F.P., Lima,A.T., Varsani,A., Alfenas-Zerbini,P., Murilo Zerbini,F., Beserra,J.E.A. Jr., Lima,A.T.M., Zerbini,P.A., Zerbini,F.M.",Sida rhombifolia,Bemisia tabaci
+Sida yellow mosaic Alagoas virus,Begomovirus,GCF_000906655.1,Brazil,2015/2/22,"Tavares,S.S., Ramos-Sobrinho,R., Gonzales-Aguilera,J., Lima,G.S.A., Assuncao,I.P., Zerbini,F.M.",Sida urens,Bemisia tabaci
+Sida yellow mosaic China virus,Begomovirus,GCF_000897235.1,China,2015/2/22,"Xiong,Q., Zhou,X.P.",Sida acutaHibiscus cannabinus,Bemisia tabaci
+Sida yellow mosaic virus,Begomovirus,GCF_000864865.1,,2015/2/13,"Fontes,E.P.B., Fernandes,A.V., Mariano,A.C., Galvao,R.M., Zerbini,F.M.",,Bemisia tabaci
+Sida yellow mosaic Yucatan virus,Begomovirus,GCF_000867925.1,Mexico: Yucatan,2015/2/13,"Hernandez-Zepeda,C., Idris,A.M., Carnevali,G., Brown,J.K., Moreno-Valenzuela,O.A.",Sida acuta,Bemisia tabaci
+Sida yellow mottle virus,Begomovirus,GCF_000896395.1,Cuba,2015/2/22,"Fiallo-Olive,E., Navas-Castillo,J., Moriones,E., Martinez-Zubiaur,Y.",Sida rhombifolia,Bemisia tabaci
+Sida yellow net virus,Begomovirus,GCF_000905775.1,Brazil,2015/2/22,"Tavares,S.S., Ramos-Sobrinho,R., Gonzales-Aguilera,J., Lima,G.S.A., Assuncao,I.P., Zerbini,F.M.",,Bemisia tabaci
+Sida yellow vein Vietnam virus,Begomovirus,GCF_000871685.1,Viet Nam: Hanoi,2015/2/13,"Ha,C., Coombs,S., Revill,P., Harding,R., Vu,M., Dale,J., Ha,C.V., Revill,P.A., Harding,R.M., Vu,M.T., Dale,J.L.",Sida rhombifoliaHibiscus rosa-sinensis,Bemisia tabaci
+Sida yellow vein virus,Begomovirus,GCF_000843025.1,,2015/2/12,"Frischmuth,T., Engel,M., Lauster,S., Jeske,H.",,Bemisia tabaci
+Sidastrum golden leaf spot virus,Begomovirus,GCF_002823485.1,Brazil,2018/8/25,"Fonseca,M.E.N., Boiteux,L.S., Fernandes,N.A.N., Costa,A.F.",Sidastrum sp.,Bemisia tabaci
+Siegesbeckia yellow vein Guangxi virus,Begomovirus,GCF_000867585.1,China:Guangxi Province,2015/2/13,"Wu,J.B., Cai,J.H., Zhou,X.P.",Sigesbeckia glabrescensEustoma grandiflorum,Bemisia tabaci
+Siegesbeckia yellow vein virus,Begomovirus,GCF_000867465.1,China:Guangdong province,2015/2/13,"Wu,J.B., Zhou,X.P., Cai,J.H., Wu,J.",Sigesbeckia glabrescensFragaria ananassa,Bemisia tabaci
+Solanum mosaic Bolivia virus,Begomovirus,GCF_000921815.1,Bolivia,2015/2/22,"Wyant,P.S., Gotthardt,D., Schafer,B., Krenz,B., Jeske,H.",Solanum lycopersicum,Bemisia tabaci
+South African cassava mosaic virus,Begomovirus,GCF_000838365.1,,2015/2/12,"Berrie,L.C., Rybicki,E.P., Rey,M.E., Rey,M.E.C.",,Bemisia tabaci
+Soybean blistering mosaic virus,Begomovirus,GCF_002823505.1,Argentina,2018/8/25,"Rodriguez Pardina,P.E., Hanada,K., Zerbini,F.M., Ducasse,D.A.",Glycine max,
+Soybean chlorotic blotch virus,Begomovirus,GCF_000889935.1,Nigeria,2015/2/22,"Alabi,O.J., Kumar,P.L., Mgbechi-Ezeri,J.U., Naidu,R.A.",Glycine max,
+Soybean mild mottle virus,Begomovirus,GCF_000888375.1,Nigeria,2015/2/22,"Alabi,O.J., Kumar,P.L., Mgbechi-Ezeri,J.U., Naidu,R.A.",Glycine max,
+Spinach yellow vein virus,Begomovirus,GCF_000915875.1,"India: Sikar, Rajasthan",2015/2/22,"Sahu,A.K., Marwal,A., Sharma,P., Gaur,R.K.",Spinacia oleracea,
+Squash leaf curl China virus,Begomovirus,GCF_000865805.1,Viet Nam,2015/2/13,"Revill,P.A., Ha,C.V., Porchun,S.C., Vu,M.T., Dale,J.L.",Hibiscus sabdariffa,
+Squash leaf curl Philippines virus,Begomovirus,GCF_000843565.1,Philippines,2015/2/12,"Kon,T., Dolores,L.M., Bajet,N.B., Hase,S., Takahashi,H., Ikegami,M.",Cucurbita moschata,
+Squash leaf curl virus,Begomovirus,GCF_000837705.1,,2015/2/12,"Lazarowitz,S.G., Lazdins,I.B.",,
+Squash leaf curl Yunnan virus,Begomovirus,GCF_000858265.1,China:Yunnan,2015/2/13,"Xie,Y., Zhou,X.P., Zhou,X.",,
+Squash mild leaf curl virus,Begomovirus,GCF_000844565.1,USA: California,2015/2/12,"Brown,J.K., Idris,A.M., Alteri,C., Stenger,D.C.",,
+Sri Lankan cassava mosaic virus,Begomovirus,GCF_000858725.1,Sri Lanka:Columbo,2015/2/13,"Saunders,K., Salim,N., Mali,V.R., Malathi,V.G., Briddon,R., Markham,P.G., Stanley,J.",Nicotiana benthamiana,Bemisia tabaci
+Stachytarpheta leaf curl virus,Begomovirus,GCF_000843765.1,China:Hainan province,2015/2/12,"Zhou,X., Fan,S.",Stachytarpheta jamaicensisMirabilis jalapa,Bemisia tabaci
+Sunn hemp leaf distortion virus,Begomovirus,GCF_000884115.1,India: Barrackpore,2015/2/22,"Das,A., Ghosh,R., Paul,S., Das,S., Palit,P., Acharyya,S., Ghosh,S.K., Roy,A.",Crotalaria juncea,
+Sweet potato golden vein Korea virus,Begomovirus,GCF_003029275.1,South Korea,2019/6/28,"Kim,J., Kwak,H.-R., Kim,M.-K., Seo,J.-K., Kim,C.-S., Lee,G.-S., Choi,H.-S.",Ipomoea batatas,
+Sweet potato leaf curl Canary virus,Begomovirus,GCF_000884435.1,Spain,2015/2/22,"Lozano,G., Trenado,H.P., Valverde,R.A., Navas-Castillo,J.",Ipomoea batatasLuffa,
+Sweet potato leaf curl China virus,Begomovirus,GCF_002823565.1,China,2018/8/25,"Luan,Y.S., Zhang,J., Liu,D.M., Li,W.L., Luan,Y.",Ludwigia hyssopifolia,
+Sweet potato leaf curl Georgia virus,Begomovirus,GCF_000842125.1,,2015/2/12,"Lotrakul,P., Valverde,R.A., Clark,C.A., Fauquet,C.M.",,
+Sweet potato leaf curl Guangxi virus,Begomovirus,GCF_000921495.1,China,2015/2/22,"Liu,Q.L., Zhang,Z.C., Qiao,Q., Qin,Y.H., Zhang,D.S., Tian,Y.T., Wang,S., Wang,Y.J.",Ipomoea batatas,
+Sweet potato leaf curl Henan virus,Begomovirus,GCF_000907875.1,China: Henan,2015/2/22,"Liu,Q., Zhang,Z., Li,J., Qiao,Q., Qin,Y., Zhang,D., Tian,Y., Wang,S., Wang,Y., Liu,Q.L., Zhang,Z.C., Qin,Y.H., Zhang,D.S., Tian,Y.T., Wang,Y.J.",Ipomoea batatasMalva rotundifolia,
+Sweet potato leaf curl Hubei virus,Begomovirus,GCF_013088085.1,China,2021/6/1,"Wang,Y., Zhang,Z., Qiao,Q., Qin,Y., Zhang,D., Wang,S., Tian,Y., Zhao,F.",Ipomoea batatasMalva parviflora,
+Sweet potato leaf curl Sao Paulo virus,Begomovirus,GCF_000927695.1,Brazil: Sao Paulo,2015/2/22,"Albuquerque,L.C., Inoue-Nagata,A.K., Pinheiro,B., Resende,R.O., Moriones,E., Navas-Castillo,J., Ribeiro,S.D., Ribeiro,S.G.",Ipomoea batatas,
+Sweet potato leaf curl Shandong virus,Begomovirus,,China,,,,Bemisia tabaci
+Sweet potato leaf curl Sichuan virus 1,Begomovirus,GCF_002823585.1,China: Sichuan,2018/8/25,"Liu,Q., Zhang,Z., Qiao,Q., Qin,Y., Zhang,D., Tian,Y., Wang,S., Wang,Y., Liu,Q.L., Zhang,Z.C., Qin,Y.H., Zhang,D.S., Tian,Y.T., Wang,Y.J.",Ipomoea batatas,
+Sweet potato leaf curl Sichuan virus 2,Begomovirus,GCF_000912175.1,China,2015/2/22,"Liu,Q.L., Zhang,Z.C., Qiao,Q., Qin,Y.H., Zhang,D.S., Tian,Y.T., Wang,S., Wang,Y.J.",Ipomoea batatas,
+Sweet potato leaf curl South Carolina virus,Begomovirus,GCF_000893435.1,USA,2015/2/22,"Zhang,S.C., Ling,K.S., Zhang,S., Ling,K.-S.",Ipomoea batatas,
+Sweet potato leaf curl virus,Begomovirus,GCF_000864705.1,USA,2015/2/13,"Lotrakul,P., Valverde,R.A., Clark,C.A., Sim,J., De La Torre,R.",Mikania micrantha,
+Sweet potato mosaic virus,Begomovirus,GCF_001967215.1,South Africa,2017/1/20,"Nhlapo,T.F., Rees,J.D.G., Mulabisana,J., Rey,C.M.E.C., Odeny,D.A., Esterhuizen,L.",Ipomoea batatas,
+Synedrella yellow vein clearing virus,Begomovirus,GCF_003029435.1,India,2018/8/26,"Das,S., Shivaprasad,P.",Synedrella nodiflora,Bemisia tabaci
+Telfairia golden mosaic virus,Begomovirus,GCF_001678335.4,Cameroon,2018/8/7,"Leke,W.N., Khatabi,B., Fondong,V.N., Brown,J.K.",Telfairia occidentalis,Bemisia tabaci
+Tobacco curly shoot virus,Begomovirus,GCF_000859325.1,,2015/2/13,"Li,Z.H., Zhou,X.P., Zhang,X., Xie,Y., Li,Z., Li,G., Zhang,Z., Zhou,X.",Solanum lycopersicum,
+Tobacco leaf curl Comoros virus,Begomovirus,GCF_002986905.1,"Comoros:Grande Comore, simboussa",2018/8/26,"Lefeuvre,P., Martin,D.P., Hoareau,M., Naze,F., Becker,N., Delatte,H., Reynaud,B., Lett,J.M.",Nicotiana tabacum,
+Tobacco leaf curl Cuba virus,Begomovirus,GCF_002310935.1,Cuba,2017/9/21,"Chang-Sidorchuk,L., Gonzalez-Alvarez,H., Martinez-Zubiaur,Y., Navas-Castillo,J., Fiallo-Olive,E.",Phaseolus vulgaris,
+Tobacco leaf curl Dominican Republic virus,Begomovirus,GCF_013088355.1,Dominican Republic,2021/6/1,"Maliano,M.R., Macedo,M.A., Rojas,M.R., Gilbertson,R.L.",Malvastrum sp.,
+Tobacco leaf curl Pusa virus,Begomovirus,GCF_000890215.1,India: Pusa Bihar,2015/2/22,"Singh,M.K., Singh,K., Haq,Q.M., Mandal,B., Varma,A., Singh,M.",Nicotiana tabacum,
+Tobacco leaf curl Thailand virus,Begomovirus,GCF_000871705.1,Thailand,2015/2/13,"Knierim,D., Maiss,E.",Solanum lycopersicum,
+Tobacco leaf curl Yunnan virus,Begomovirus,GCF_000860165.1,China:Yunnan,2015/2/13,"Zhou,X.P., Xie,Y., Zhang,Z.K., Zhou,X.",Oxalis corniculata,
+Tobacco leaf curl Zimbabwe virus,Begomovirus,GCF_000838925.1,Zimbabwe,2015/2/12,"Paximadis,M., Rey,M.E., Rey,C.",,
+Tobacco leaf rugose virus,Begomovirus,GCF_002986915.1,Cuba:Havana,2018/8/26,"Dominguez,M., Ramos,P.L., Echemendia,A.L., Peral,R., Crespo,J., Andino,V., Pujol,M., Borroto,C.",Nicotiana tabacum,
+Tobacco mottle leaf curl virus,Begomovirus,GCF_002986925.1,Cuba:Sancti Spiritus,2018/8/26,"Dominguez,M., Ramos,P.L., Sanchez,Y., Crespo,J., Andino,V., Pujol,M., Borroto,C., Milagros,D.M.",,
+Tobacco yellow crinkle virus,Begomovirus,GCF_000892135.1,Cuba,2015/2/22,"Fiallo-Olive,E., Rivera-Bustamante,R.F., Martinez-Zubiaur,Y., Moriones,E., Navas-Castillo,J.",Nicotiana tabacum,
+Tomato bright yellow mosaic virus,Begomovirus,GCF_002823845.1,Brazil,2018/8/25,,Solanum lycopersicum,
+Tomato bright yellow mottle virus,Begomovirus,GCF_002823865.1,Brazil,2018/8/25,,Solanum lycopersicum,
+Tomato chino La Paz virus,Begomovirus,GCF_000842645.1,"Mexico: Baja California Sur, La Paz",2015/2/12,"Holguin-Pena,R.J., Vazquez-Juarez,R., Rivera-Bustamante,R.F.",,
+Tomato chlorotic leaf curl virus,Begomovirus,GCF_013087485.1,Brazil,2021/6/1,,Solanum lycopersicum,
+Tomato chlorotic leaf distortion virus,Begomovirus,GCF_000894835.3,Venezuela,2016/8/8,"Zambrano,K., Geraud-Pouey,F., Chirinos,D., Romay,G., Marys,E., Geraud,F.",Solanum lycopersicum,
+Tomato chlorotic mottle Guyane virus,Begomovirus,GCF_003029095.2,French Guiana,2018/12/27,,Solanum lycopersicum,
+Tomato chlorotic mottle virus,Begomovirus,GCF_000838345.1,,2015/2/12,"Ribeiro,S.G., Lacorte,C.C., Inoue-Nagata,A.K., Carmo,I., Orlandini,D., Andrade,E.C., Nagata,T., Zerbini,F.M. Jr., Zerbini,F.M.",,
+Tomato common mosaic virus,Begomovirus,GCF_000879555.1,Brazil,2015/2/22,"Castillo-Urquiza,G.P., Beserra,J.E. Jr., Bruckner,F.P., Lima,A.T., Varsani,A., Alfenas-Zerbini,P., Murilo Zerbini,F., Beserra,J.E.A. Jr., Lima,A.T.M., Zerbini,P.A., Zerbini,F.M.",Solanum lycopersicum,
+Tomato curly stunt virus,Begomovirus,GCF_000841345.1,South Africa,2015/2/12,"Pieterson,G., Idris,A.M., Kruger,K., Brown,J.K.",,
+Tomato dwarf leaf virus,Begomovirus,GCF_000894215.1,Argentina,2015/2/22,"Vaghi Medina,C.G., Lopez Lambertini,P.M.",Solanum lycopersicum,
+Tomato enation leaf curl virus,Begomovirus,GCF_000969195.1,"India: Narsipura, Karnataka",2015/4/6,"Swarnalatha,P., Jalali,S., Krishna Reddy,M.",Solanum lycopersicum,
+Tomato golden leaf distortion virus,Begomovirus,GCF_002823965.1,Brazil,2019/6/28,"Fonseca,M.E.N., Boiteux,L.S., Fernandes,N.A.N., Costa,A.F., Lima-Neto,A.F.",Solanum lycopersicum,
+Tomato golden leaf spot virus,Begomovirus,GCF_000909455.1,Uruguay,2015/2/22,"Fonseca,M.E.N., Boiteux,L.S.",Solanum lycopersicum,
+Tomato golden mosaic virus,Begomovirus,GCF_000839565.1,,2015/2/12,"Hamilton,W.D., Stein,V.E., Coutts,R.H., Buck,K.W., Jeffrey,J.L., Pooma,W., Petty,I.T.",,
+Tomato golden mottle virus,Begomovirus,GCF_000839225.1,Mexico,2015/2/12,"Mauricio-Castillo,J.A., Arguello-Astorga,G.R., Gregorio-Jorge,J., Ambriz-Granados,S., Alpuche-Solis,A.G., Monreal-Vargas,C.T.",Solanum lycopersicum,
+Tomato golden vein virus,Begomovirus,GCF_002867655.1,Brazil: Goias,2018/8/26,"Albuquerque,L.C., Varsani,A., Fernandes,F.R., Pinheiro,B., Martin,D.P., de Tarso Oliveira Ferreira,P., Lemos,T.O., Inoue-Nagata,A.K., Martins,D.P., Ferreira,P.T.O.",Solanum lycopersicum,
+Tomato interveinal chlorosis virus,Begomovirus,GCF_002823985.1,Brazil: Pernambuco,2018/8/25,"Albuquerque,L.C., Varsani,A., Fernandes,F.R., Pinheiro,B., Martin,D.P., de Tarso Oliveira Ferreira,P., Lemos,T.O., Inoue-Nagata,A.K., Martins,D.P., Ferreira,P.T.O.",Solanum lycopersicum,
+Tomato latent virus,Begomovirus,GCF_003029065.1,Cuba: open field near Havana,2018/8/26,"Fuentes,A., Carlos,N., Ruiz,Y., Callard,D., Sanchez,Y., Ochagavia,M.E., Seguin,J., Malpica-Lopez,N., Hohn,T., Lecca,M.R., Perez,R., Doreste,V., Rehrauer,H., Farinelli,L., Pujol,M., Pooggin,M.M.",Solanum lycopersicum,
+Tomato leaf curl Anjouan virus,Begomovirus,GCF_002986935.1,"Comoros:Anjouan, Ouani",2018/8/26,"Lefeuvre,P., Martin,D.P., Hoareau,M., Naze,F., Becker,N., Delatte,H., Reynaud,B., Lett,J.M.",Solanum lycopersicum,
+Tomato leaf curl Arusha virus,Begomovirus,GCF_000868885.1,Tanzania:Kilimanjaro,2015/2/13,"Shih,S.L., Tsai,W.S., Green,S.K., Lee,L.M.",Solanum lycopersicum,
+Tomato leaf curl Bangalore virus,Begomovirus,GCF_000839265.1,,2015/2/12,"Hong,Y.G., Harrison,B.D., Hong,Y.",,
+Tomato leaf curl Bangladesh virus,Begomovirus,GCF_000840445.1,Bangladesh,2015/2/12,"Shih,S.L., Tsai,W.S., Nakhla,M.K., Maxwell,D.P., Rashid,M.H., Green,S.K.",,
+Tomato leaf curl Burkina Faso virus,Begomovirus,GCF_002005645.1,Burkina Faso,2017/2/23,"Ouattara,A., Tiendrebeogo,F., Lefeuvre,P., Claverie,S., Hoareau,M., Traore,E.V., Barro,N., Traore,O., Lett,J.M., Lett,J.-M.",Solanum lycopersicum,
+Tomato leaf curl Cebu virus,Begomovirus,GCF_000875005.1,Philippines: Cebu,2015/2/13,"Tsai,W.S., Shih,S.L., Venkatesan,S.G., Aquino,M.U., Green,S.K., Kenyon,L., Jan,F.J., Aquino,M., Huang,Y.C., Jan,F.-J.",Solanum lycopersicum,
+Tomato leaf curl China virus,Begomovirus,GCF_000842525.1,China:Guangxi,2015/2/12,"Ma,X., Zhou,X.",Solanum lycopersicumPanax notoginseng,
+Tomato leaf curl Comoros virus,Begomovirus,GCF_001430535.1,Mayotte:Dembeni,2015/11/3,"Delatte,H., Martin,D.P., Naze,F., Goldbach,R., Reynaud,B., Peterschmitt,M., Lett,J.M.",Solanum lycopersicum,
+Tomato leaf curl Diana virus,Begomovirus,GCF_002986995.1,"Madagascar:Diana, Namakely",2018/8/26,"Lefeuvre,P., Martin,D.P., Hoareau,M., Naze,F., Becker,N., Delatte,H., Reynaud,B., Lett,J.M.",Solanum lycopersicum,
+Tomato leaf curl Ghana virus,Begomovirus,GCF_000874905.1,Ghana:Akumadan,2015/2/13,"Osei,M.K., Akromah,R., Shih,S.L., Lee,L.M., Green,S.K.",Solanum lycopersicum,
+Tomato leaf curl Guangdong virus,Begomovirus,GCF_000869445.1,"China: Guangdong, Guangzhou",2015/2/13,"He,Z.F., Yu,H.",Solanum lycopersicumPassiflora edulis,
+Tomato leaf curl Guangxi virus,Begomovirus,GCF_000868445.1,China:Guangxi,2015/2/13,"Xu,Y.P., Cai,X.Z., Zhou,X.P.",Solanum lycopersicumPassiflora,
+Tomato leaf curl Gujarat virus,Begomovirus,GCF_000841205.1,"India: Uttar Pradesh, Varanasi",2015/2/12,"Chakraborty,S., Pandey,P.K., Banerjee,M.K., Kalloo,G., Fauquet,C.M.",,
+Tomato leaf curl Hainan virus,Begomovirus,GCF_000885835.1,China:Hainan province,2015/2/22,"Zhang,H., Hu,G., Zhou,X., Zhou,X.P.",Solanum lycopersicumPericallis hybrida,
+Tomato leaf curl Hsinchu virus,Begomovirus,GCF_000879415.1,China,2015/2/22,"Feng,X.H., Guo,A.P.",BoehmeriaPerilla frutescens,
+Tomato leaf curl Iran virus,Begomovirus,GCF_000845745.1,Iran: Iranshahr,2015/2/12,"Behjatnia,A., Izadpanah,K., Dry,I.B., Rezaian,A.",,
+Tomato leaf curl Japan virus,Begomovirus,GCF_004786335.1,Japan: Miyazaki,2021/6/1,"Ueda,S., Onuki,M., Hanada,K., Takanami,Y.",Solanum lycopersicum,
+Tomato leaf curl Java virus,Begomovirus,GCF_000842305.1,Indonesia,2015/2/12,"Kon,T., Hidayat,S.H., Hase,S., Takahashi,H., Ikegami,M.",Nicotiana benthamiana,
+Tomato leaf curl Joydebpur virus,Begomovirus,GCF_000864425.1,"Bangladesh:Gazipur, Joydebpur",2015/2/13,"Maruthi,M.N., Rekha,A.R., Alam,S.N., Kader,K.A., Cork,A., Colvin,J.",Solanum lycopersicum,
+Tomato leaf curl Karnataka virus,Begomovirus,GCF_000840185.1,,2015/2/12,"Chatchawankanphanich,O., Chiang,B.-T., Green,S.K., Singh,S.J., Mehta,P., Maxwell,D.P.",,
+Tomato leaf curl Karnataka virus 2,Begomovirus,GCF_004787115.1,"India: Sonipet, Hariyana",2021/6/1,"Swarnalatha,S., Venkataravanappa,V., Jalali,S., Krishnareddy,M.",Solanum lycopersicum,
+Tomato leaf curl Karnataka virus 3,Begomovirus,GCF_004787135.1,"India: Rauke, Punjab",2021/6/1,"Swarnalatha,P., Venkataravanappa,V., Jalali,S., KrishnaReddy,M.",Solanum lycopersicum,
+Tomato leaf curl Kerala virus,Begomovirus,GCF_000881415.1,India,2015/2/22,"Mukhopadhyay,S., Pandey,P., Nazeem,P.A., Mukherjee,S.K.",Solanum lycopersicum,
+Tomato leaf curl Kunene virus,Begomovirus,,NA-2019,,,,Bemisia tabaci
+Tomato leaf curl Liwa virus,Begomovirus,GCF_000915295.1,Oman:Liwa,2015/2/22,"Khan,A.J., Akhtar,S., Singh,A.K., Al-Shehi,A.A., Al-Matrushi,A.M., Ammara,U., Briddon,R.W.",Solanum lycopersicum,
+Tomato leaf curl Madagascar virus,Begomovirus,GCF_000857385.1,"Madagascar:Morondova,2001",2015/2/13,"Delatte,H., Martin,D.P., Naze,F., Goldbach,R., Reynaud,B., Peterschmitt,M., Lett,J.M.",Solanum lycopersicum,
+Tomato leaf curl Mahe virus,Begomovirus,GCF_013088145.1,Seychelles,2021/6/1,,Solanum lycopersicum,
+Tomato leaf curl Malaysia virus,Begomovirus,GCF_000843005.1,Malaysia: Klang,2015/2/12,"Shih,S.L., Roff,M.M.N., Nakhla,M.K., Maxwell,D.P., Green,S.K.",,
+Tomato leaf curl Mali virus,Begomovirus,GCF_000841705.1,Mali,2015/2/12,"Zhou,Y.C., Noussourou,M., Kon,T., Rojas,M.R., Jiang,H., Chen,L.F., Gamby,K., Foster,R., Gilbertson,R.L., Zhou,Y., Chen,L.",,
+Tomato leaf curl Mindanao virus,Begomovirus,GCF_000872745.1,Philippines: Mindanao,2015/2/13,"Tsai,W.S., Shih,S.L., Venkatesan,S.G., Aquino,M.U., Green,S.K., Kenyon,L., Jan,F.J., Aquino,M., Huang,Y.C., Jan,F.-J.",Solanum lycopersicum,
+Tomato leaf curl Moheli virus,Begomovirus,GCF_002987035.1,"Comoros:Moheli, Fomboni",2018/8/26,"Lefeuvre,P., Martin,D.P., Hoareau,M., Naze,F., Becker,N., Delatte,H., Reynaud,B., Lett,J.M.",Solanum lycopersicum,
+Tomato leaf curl Namakely virus,Begomovirus,GCF_002987045.1,"Madagascar:Antsiranana, Namakely",2018/8/26,"Lefeuvre,P., Martin,D.P., Hoareau,M., Naze,F., Becker,N., Delatte,H., Reynaud,B., Lett,J.M.",Solanum lycopersicum,
+Tomato leaf curl New Delhi virus,Begomovirus,GCF_000842925.1,,2015/2/12,"Padidam,M., Beachy,R.N., Fauquet,C.M.",Solanum lycopersicumPhaseolus vulgaris,
+Tomato leaf curl New Delhi virus 2,Begomovirus,GCF_002824165.1,India,2018/8/25,"Chaudhary,A., Kumar,R., Mukherjee,S.K.",Solanum lycopersicum,
+Tomato leaf curl New Delhi virus 4,Begomovirus,GCF_002824185.1,"India: Gujarat, Junagad",2018/8/25,"Swarnalatha,P., Manasa,M., Venkataravanappa,V., Jalali,S., KrishnaReddy,M.",Solanum lycopersicum,
+Tomato leaf curl New Delhi virus 5,Begomovirus,GCF_004786775.1,Bangladesh,2021/6/1,"Monger,W.A., Mumford,R., Kelly,P.",Cucumis sativus,
+Tomato leaf curl Nigeria virus,Begomovirus,GCF_000883635.1,Nigeria,2015/2/22,"Kon,T., Rojas,M.R., Gilbertson,R.L.",Solanum lycopersicum,
+Tomato leaf curl Palampur virus,Begomovirus,GCF_000875365.1,India:Himachal Pradesh,2015/2/13,"Kumar,Y., Hallan,V., Zaidi,A.A.",Solanum lycopersicum,
+Tomato leaf curl Patna virus,Begomovirus,GCF_000881195.1,India: Patna,2015/2/22,"Kumari,P., Chattopadhyay,B., Singh,A.K., Chakraborty,S.",Solanum lycopersicum,
+Tomato leaf curl Philippines virus,Begomovirus,GCF_000840685.1,,2015/2/12,"Kon,T., Dolores,L.M., Murayama,A., Bajet,N.B., Hase,S., Takahashi,H., Ikegami,M.",,
+Tomato leaf curl Pune virus,Begomovirus,GCF_000868585.1,India: Pune,2015/2/13,"Chowda Reddy,R.V., Colvin,J., Muniyappa,V.",,
+Tomato leaf curl purple vein virus,Begomovirus,GCF_002270925.1,Brazil,2017/8/26,"Macedo,M.A., Albuquerque,L., Souza,J., Maliano,M., Rojas,M., Gilbertson,R., Inoue Nagata,A.",Solanum lycopersicum,
+Tomato leaf curl Rajasthan virus,Begomovirus,GCF_002824245.1,India: Rajasthan,2018/8/25,"Sivalingam,P.N., Malathi,V.G., Varma,A.",,
+Tomato leaf curl Seychelles virus,Begomovirus,GCF_000871445.1,Seychelles:Mahe,2015/2/13,"Lefeuvre,P., Delatte,H., Naze,F., Dogley,W., Reynaud,B., Lett,J.M.",Solanum lycopersicum,
+Tomato leaf curl Sinaloa virus,Begomovirus,GCF_000871805.1,Nicaragua:Santa Lucia,2015/2/13,"Rojas,A., Kvarnheden,A., Marcenaro,D., Valkonen,J.P.",Solanum lycopersicum,
+Tomato leaf curl Sri Lanka virus,Begomovirus,GCF_000841305.1,Sri Lanka:Bandarawela,2015/2/12,"Shih,S.L., Nakhla,M.K., Maxwell,D.P., Green,S.K., Hanson,P.",Solanum lycopersicum,
+Tomato leaf curl Sudan virus,Begomovirus,GCF_000842665.1,,2015/2/12,"Idris,A.M., Brown,J.K.",,
+Tomato leaf curl Sulawesi virus,Begomovirus,GCF_000886855.1,"Indonesia:Tompaso, North Sulawesi",2015/2/22,"Tsai,W.S., Shih,S.L., Green,S.K., Lee,L.M., Luther,G.C., Ratulangi,M., Sembel,D.T., Jan,F.-J.",Solanum lycopersicum,
+Tomato leaf curl Taiwan virus,Begomovirus,GCF_000840145.1,,2015/2/12,"Chiang,B.T., Green,S.K., Tsai,W.S., Nakhla,M.K., Maxwell,D.P.",Phyllanthus urinaria,
+Tomato leaf curl Tanzania virus,Begomovirus,,TZ-Ten-05,,,,Bemisia tabaci
+Tomato leaf curl Toliara virus,Begomovirus,GCF_002987065.1,"Madagascar:Menabe, Miandrivazo",2018/8/26,"Lefeuvre,P., Martin,D.P., Hoareau,M., Naze,F., Becker,N., Delatte,H., Reynaud,B., Lett,J.M.",Solanum lycopersicum,
+Tomato leaf curl Uganda virus,Begomovirus,GCF_002824385.1,Uganda: Iganga,2018/8/25,"Shih,S.L., Green,S.K., Tsai,W.S., Ssekyewa,C.",Solanum lycopersicum,
+Tomato leaf curl Vietnam virus,Begomovirus,GCF_000842785.1,Viet Nam: Co Nhue-Tu Liem-Hanol,2015/2/12,"Tsai,W.S., Hong,L.T.A., Green,S.K.",,
+Tomato leaf curl virus,Begomovirus,GCF_000838425.1,,2015/2/12,"Dry,I.B., Rigden,J.E., Krake,L.R., Mullineaux,P.M., Rezaian,M.A.",,
+Tomato leaf deformation virus,Begomovirus,GCF_000888595.1,Peru: Carabayllo,2015/2/22,"Marquez-Martin,B., Aragon-Caballero,L., Fiallo-Olive,E., Navas-Castillo,J., Moriones,E.",Solanum lycopersicum,
+Tomato leaf distortion virus,Begomovirus,GCF_002824485.1,Brazil,2018/8/25,"Castillo-Urquiza,G.P., Beserra,J.E. Jr., Bruckner,F.P., Lima,A.T., Varsani,A., Alfenas-Zerbini,P., Murilo Zerbini,F., Beserra,J.E.A. Jr., Lima,A.T.M., Zerbini,P.A., Zerbini,F.M.",Solanum lycopersicum,
+Tomato mild mosaic virus,Begomovirus,GCF_000874565.1,Brazil,2015/2/13,"Castillo-Urquiza,G.P., Beserra,J.E. Jr., Bruckner,F.P., Lima,A.T., Varsani,A., Alfenas-Zerbini,P., Murilo Zerbini,F., Beserra,J.E.A. Jr., Lima,A.T.M., Zerbini,P.A., Zerbini,F.M.",Solanum lycopersicum,
+Tomato mild yellow leaf curl Aragua virus,Begomovirus,GCF_000870725.1,Venezuela,2015/2/13,"Zambrano,K.A., Carrillo,J., Carballo,O., Rivera-Bustamante,R., Marys,E.E., Rivera-Bustamante,R.F.",Solanum lycopersicum,
+Tomato mosaic Havana virus,Begomovirus,GCF_000837605.1,,2015/2/12,"Martinez-Zubiaur,Y., de Blas,C., Quinones,M., Castellanos,C., Peralta,E.L., Romero,J., Romero,L.C., Martinez Zubiaur,Y.",,
+Tomato mosaic severe dwarf virus,Begomovirus,GCF_018587715.1,Brazil,2021/6/1,"Alves-Andrade,I., Gilbertson,R.L., Boiteux,L.S., Fonseca,M.E.N., Rojas,M.R., Reis,L.N.A., Pereira-Carvalho,R.C.",,
+Tomato mottle leaf curl virus,Begomovirus,GCF_001891035.1,Brazil,2016/12/8,"Ferro,M.M.M., Ramos-Sobrinho,R., Silva,J.T., Assuncao,I.P., Lima,G.S.A.",Solanum lycopersicum,
+Tomato mottle Taino virus,Begomovirus,GCF_000838745.1,,2015/2/12,"Ramos,P.L., Guerra,O., Peral,P., Oramas,P., Guevara,R.G., Rivera-Bustamante,R., Guevara-Gonzalez,R., Peral,R.",,
+Tomato mottle virus,Begomovirus,GCF_000837105.1,,2015/2/12,"Abouzid,A.M., Polston,J.E., Hiebert,E.",,
+Tomato mottle wrinkle virus,Begomovirus,GCF_000926355.1,Argentina,2015/2/22,"Vaghi Medina,C.G., Martin,D.P., Lopez Lambertini,P.M.",Solanum lycopersicum,
+Tomato rugose mosaic virus,Begomovirus,GCF_000837205.1,"Brazil: Uberlandia, Triangulo Mineiro, Mians Gerais",2015/2/12,"Fernandes,J.J., Carvalho,M.G., Andrade,E.C., Brommonschenkel,S.H., Fontes,E.P.B., Zerbini,F.M., Zambolim,E.M.",,
+Tomato rugose yellow leaf curl virus,Begomovirus,GCF_000904155.4,Uruguay: Salto Grande,2018/8/7,"Marquez-Martin,B., Maeso,D., Martinez-Ayala,A., Bernal,R., Teresa Federici,M., Vincelli,P., Navas-Castillo,J., Moriones,E., Federici,M.T.",Solanum lycopersicum,
+Tomato severe leaf curl Kalakada virus,Begomovirus,GCF_004787335.1,"India: Kalakada, Andhra Pradesh",2021/6/1,"Swarnalatha,P., Venkatravanappa,V., Jalali,S., Krishna Reddy,M.",Solanum lycopersicum,
+Tomato severe leaf curl virus,Begomovirus,GCF_000845785.1,Guatemala:Sansirisay,2015/2/12,"Nakhla,M.K., Maxwell,M.D., Hidayat,S.H., Lange,D.R., Loniello,A.O., Rojas,M.R., Maxwell,D.P., Kitajima,E.W., Rojas,A., Anderson,P., Gilbertson,R.L., Mejia,L., Ramirez,P., Karkashian,J.P., Doyle,M.M.",,
+Tomato severe rugose virus,Begomovirus,GCF_000874065.1,Brazil,2015/2/13,"Bezerra-Agasie,I.C., Ferreira,G.B., Avila,A.C., Inoue-Nagata,A.K., Hallwass,M.",Capsicum sp.,
+Tomato twisted leaf virus,Begomovirus,GCF_013088455.1,Venezuela,2021/6/1,"Romay,G., Geraud-Pouey,F., Chirinos,D.T., Mahillon,M., Gillis,A., Mahillon,J., Bragard,C.",Solanum lycopersicum,
+Tomato vein clearing leaf deformation virus,Begomovirus,GCF_018585205.1,Argentina,2021/6/1,"Vaghi Medina,C.G., Bornancini,V.A., Lopez Lambertini,P.M.",Solanum lycopersicum,
+Tomato wrinkled mosaic virus,Begomovirus,GCF_004788055.1,Venezuela,2021/6/1,"Romay,G., Chirinos,D.T., Geraud-Pouey,F., Gillis,A., Mahillon,J., Desbiez,C., Bragard,C.",Solanum lycopersicum,
+Tomato yellow leaf curl Axarquia virus,Begomovirus,GCF_000880235.1,"Italy: Sicily, Ragusa",2015/2/22,"Davino,S., Napoli,C., Dellacroce,C., Miozzi,L., Noris,E., Davino,M., Accotto,G.P.",Solanum lycopersicum,
+Tomato yellow leaf curl China virus,Begomovirus,GCF_000862185.1,,2015/2/13,"Yin,Q., Yang,H., Gong,Q., Wang,H., Liu,Y., Hong,Y., Tien,P.",Solanum lycopersicumPouzolzia zeylanica,
+Tomato yellow leaf curl Guangdong virus,Begomovirus,GCF_000868505.1,"China: Guangdong, Guangzhou",2015/2/13,"He,Z.F., Yu,H.",Solanum lycopersicumSechium edule,
+Tomato yellow leaf curl Indonesia virus,Begomovirus,GCF_000869285.1,Indonesia:Lembang,2015/2/13,"Tsai,W.S., Shih,S.L., Green,S.K., Akkermans,D., Jan,F.-J.",Solanum lycopersicum,
+Tomato yellow leaf curl Kanchanaburi virus,Begomovirus,GCF_000840985.1,Thailand: Kanchanaburi,2015/2/12,"Green,S.K., Tsai,W.S., Shih,S.L., Rezaian,M.A., Duangsong,U.",Senecio scandens,
+Tomato yellow leaf curl Malaga virus,Begomovirus,GCF_000842905.1,Spain,2015/2/12,"Monci,F., Sanchez-Campos,S., Navas-Castillo,J., Moriones,E.",,
+Tomato yellow leaf curl Mali virus,Begomovirus,GCF_001028945.1,Burkina Faso,2015/6/17,"Sattar,M.N., Koutou,M., Husseini,S., Leke,W.N., Brown,J.K., Kvarnheden,A.",Solanum lycopersicum,
+Tomato yellow leaf curl Shuangbai virus,Begomovirus,GCF_001634615.1,China,2016/5/1,"Zhao,L.L., Ding,M., Yin,Y.Y., Zhang,X.Y., Zhang,Z.K.",Solanum lycopersicum,
+Tomato yellow leaf curl Thailand virus,Begomovirus,GCF_000857225.1,,2015/2/13,"Attathom,S., Chiemsombat,P., Kositratana,W., Sae-Ung,N.",Sida cordifolia,
+Tomato yellow leaf curl Vietnam virus,Begomovirus,GCF_000873945.1,Viet Nam: Hanoi,2015/2/13,"Ha,C., Coombs,S., Revill,P., Harding,R., Vu,M., Dale,J., Ha,C.V., Revill,P.A., Harding,R.M., Vu,M.T., Dale,J.L.",Solanum lycopersicum,
+Tomato yellow leaf curl virus,Begomovirus,GCF_000858205.1,Spain:Almeria,2015/2/13,"Morilla,G., Janssen,D., Garcia-Andres,S., Moriones,E., Cuadrado,I.M., Bejarano,E.R.",Capsicum sp.Solanum torvum,
+Tomato yellow leaf curl Yunnan virus,Begomovirus,GCF_000909115.1,China,2015/2/22,"Ding,M., Li,W.H., Zhang,Z.K., Zhou,X.P.",Solanum lycopersicumNicandra physaloides,
+Tomato yellow leaf deformation dwarf virus,Begomovirus,GCF_018587685.1,Brazil,2021/6/1,"Pereira-Carvalho,R.C., Reis-Goncalves,V.P.M., Boiteux,L.S., Fonseca,M.E.N., Naito,F.Y., Rojas,M.R., Gilbertson,R.L.",Solanum lycopersicum,
+Tomato yellow leaf distortion virus,Begomovirus,GCF_000896215.1,Cuba,2015/2/22,"Fiallo-Olive,E., Martinez-Zubiaur,Y., Rivera-Bustamante,R.F., Hernandez-Zepeda,C., Trejo-Saavedra,D., Carrillo-Trip,J., Rivera-Bustamante,R.",Solanum lycopersicum,
+Tomato yellow margin leaf curl virus,Begomovirus,GCF_000843525.4,Venezuela: Merida,2017/10/11,"Nava,A., Londono,A., Polston,J.E., Nava,A.R., Patte,C.P., Hiebert,E., Palston,J.E.",Solanum lycopersicum,
+Tomato yellow mottle virus,Begomovirus,GCF_000904935.1,Costa Rica,2015/2/22,"Maliano,M.R., Melgarejo,T., Rojas,M., Barboza,N., Gilbertson,R.L.",Solanum lycopersicum,
+Tomato yellow spot virus,Begomovirus,GCF_000865405.1,Brazil,2015/2/13,"Fernandes,J.J., Carvalho,M.G., Andrade,E.C., Brommonschenkel,S.H., Fontes,E.P.B., Zerbini,F.M., Calegario,R.F., Ferreira,S.S.",,
+Tomato yellow vein streak virus,Begomovirus,GCF_000874525.1,Brazil,2015/2/13,"Albuquerque,L.C., Martin,D.P., Avila,A.C., Inoue-Nagata,A.K., Ribeiro,S.G., Daniels,J., Fernandes-Carrijo,F.R.",Solanum tuberosum,
+Triumfetta yellow mosaic virus,Begomovirus,GCF_003029285.2,Brazil,2018/12/27,,Triumfetta sp.,Bemisia tabaci
+Velvet bean golden mosaic virus,Begomovirus,GCF_003029325.1,Taiwan,2018/8/26,"Kang,Y.T., Tsai,W.S.",Mucuna pruriens,
+Velvet bean severe mosaic virus,Begomovirus,GCF_000884375.1,"India:Uttar Pradesh, Lucknow",2015/2/22,"Zaim,M., Kumar,Y., Hallan,V., Zaidi,A.A.",Mucuna sp.,
+Verbena mottle virus,Begomovirus,GCF_018580625.1,Colombia,2021/6/1,"Lopez-Lopez,K., Jara-Tejada,F., Arguello-Astorga,G.R., Vaca-Vaca,J.C.",Verbena sp.,Bemisia tabaci
+Vernonia crinkle virus,Begomovirus,GCF_001907745.1,Uganda,2016/12/18,"Mollel,H.G., Ndunguru,J., Sseruwagi,P., Alicai,T., Colvin,J., Navas-Castillo,J., Fiallo-Olive,E.",Gymnanthemum amygdalinum,Bemisia tabaci
+Vernonia yellow vein Fujian virus,Begomovirus,GCF_004786915.1,China: Fujian,2019/6/28,"Zulfiqar,A., Zhang,J., Cui,X., Qian,Y., Zhou,X., Xie,Y.",Cyanthillium cinereumMalvastrum coromandelianum,Bemisia tabaci
+Vernonia yellow vein virus,Begomovirus,GCF_000864465.1,India:Madurai,2015/2/13,"Packialakshmi,R.M., Srivastava,N., Girish,K.R., Usha,R.",Cyanthillium cinereum,Bemisia tabaci
+Vigna yellow mosaic virus,Begomovirus,GCF_002824725.1,Mexico: Morelos,2018/8/25,"Torres-Herrera,I., Cardenas-Conejo,Y., Ambriz-Granados,S., Mauricio-Castillo,J.A., Moreno-Valenzuela,O., Arguello-Astorga,G.R.",Sigmoidotropis elegans,Bemisia tabaci
+Vinca leaf curl virus,Begomovirus,GCF_001430335.1,India,2015/11/3,"Nehra,C., Sekhsaria,C., Gaur,R.K.",Catharanthus roseus,Bemisia tabaci
+Watermelon chlorotic stunt virus,Begomovirus,GCF_000837565.1,,2015/2/12,"Briddon,R.W., Banks,G., Bedford,I.D., Pinner,M.S., Jones,P., Markham,P.G.",Citrullus lanatus,
+West African Asystasia virus 1,Begomovirus,GCF_000896655.1,,2015/2/22,"Wyant,P., Strohmeier,S., Fischer,A., Schafer,B., Briddon,R.W., Krenz,B., Jeske,H., Wyant,P.S., Allinger,A.",Asystasia gangetica,Bemisia tabaci
+West African Asystasia virus 2,Begomovirus,GCF_002824745.1,,2018/8/25,"Wyant,P., Strohmeier,S., Fischer,A., Schafer,B., Briddon,R.W., Krenz,B., Jeske,H., Wyant,P.S., Allinger,A.",Asystasia gangetica,Bemisia tabaci
+West African Asystasia virus 3,Begomovirus,,BJ-58-14,,,,Bemisia tabaci
+Whitefly-associated begomovirus 1,Begomovirus,GCF_003029115.1,Guatemala,2018/8/26,"Rosario,K., Seah,Y.M., Marr,C., Varsani,A., Kraberger,S., Stainton,D., Moriones,E., Polston,J.E., Duffy,S., Breitbart,M.",,
+Whitefly-associated begomovirus 2,Begomovirus,GCF_003029125.1,Guatemala,2018/8/26,"Rosario,K., Seah,Y.M., Marr,C., Varsani,A., Kraberger,S., Stainton,D., Moriones,E., Polston,J.E., Duffy,S., Breitbart,M.",,
+Whitefly-associated begomovirus 3,Begomovirus,GCF_003029135.1,Guatemala,2018/8/26,"Rosario,K., Seah,Y.M., Marr,C., Varsani,A., Kraberger,S., Stainton,D., Moriones,E., Polston,J.E., Duffy,S., Breitbart,M.",,
+Whitefly-associated begomovirus 4,Begomovirus,GCF_003029145.1,Guatemala,2018/8/26,"Rosario,K., Seah,Y.M., Marr,C., Varsani,A., Kraberger,S., Stainton,D., Moriones,E., Polston,J.E., Duffy,S., Breitbart,M.",,
+Whitefly-associated begomovirus 6,Begomovirus,GCF_003029155.1,Puerto Rico,2018/8/26,"Rosario,K., Seah,Y.M., Marr,C., Varsani,A., Kraberger,S., Stainton,D., Moriones,E., Polston,J.E., Duffy,S., Breitbart,M.",,
+Whitefly-associated begomovirus 7,Begomovirus,GCF_003029165.1,Spain,2018/8/26,"Rosario,K., Seah,Y.M., Marr,C., Varsani,A., Kraberger,S., Stainton,D., Moriones,E., Polston,J.E., Duffy,S., Breitbart,M.",,
+Wissadula golden mosaic virus,Begomovirus,GCF_000880135.1,Jamaica: St. Thomas parish,2015/2/22,"Collins,A.M., Roye,M.E.",Wissadula amplissima,Bemisia tabaci
+Wissadula yellow mosaic virus,Begomovirus,GCF_001777245.1,Brazil,2016/10/19,"Passos,L.S., Teixeira,J.W.M., Lima,K.J., Rodrigues,J.S., Soares,E.C.S., Xavier,C.A.D., Araujo,A.S.F., Zerbini,F.M., Beserra,J.E.A. Jr.",Wissadula sp.,Bemisia tabaci
+Alfalfa leaf curl virus,Capulavirus,GCF_001271015.1,"France:Camargue, Le Sambuc",2015/8/20,"Roumagnac,P., Granier,M., Bernardo,P., Deshoux,M., Ferdinand,R., Galzi,S., Fernandez,E., Julian,C., Abt,I., Filloux,D., Mesleard,F., Varsani,A., Blanc,S., Martin,D.P., Peterschmitt,M.",Medicago sativa,Aphis
+Euphorbia caput-medusae latent virus,Capulavirus,GCF_001654365.1,"South Africa: Western Cape, Darling",2016/6/2,"Bernardo,P., Muhire,B., Francois,S., Deshoux,M., Hartnady,P., Farkas,K., Kraberger,S., Filloux,D., Fernandez,E., Galzi,S., Ferdinand,R., Granier,M., Marais,A., Monge Blasco,P., Candresse,T., Escriu,F., Varsani,A., Harkins,G.W., Martin,D.P., Roumagnac,P., Frilander,M.J., Monge,P., Peterschmitt,M., Laine,A.L.",Euphorbia caput,leafhopper
+French bean severe leaf curl virus,Capulavirus,GCF_000899975.1,India,2015/2/22,"Akram,M., Naimuddin",Phaseolus vulgaris,
+Plantago lanceolata latent virus,Capulavirus,GCF_002824765.1,Finland: Aland archipelago,2018/8/25,"Bernardo,P., Muhire,B., Francois,S., Deshoux,M., Hartnady,P., Farkas,K., Kraberger,S., Filloux,D., Fernandez,E., Galzi,S., Ferdinand,R., Granier,M., Marais,A., Monge Blasco,P., Candresse,T., Escriu,F., Varsani,A., Harkins,G.W., Martin,D.P., Roumagnac,P., Frilander,M.J., Monge,P., Peterschmitt,M., Laine,A.L.",Plantago lanceolata,leafhopper
+Citrus chlorotic dwarf associated virus,Citlodavirus,GCF_000898955.1,Turkey,2015/2/22,"Loconsole,G., Saldarelli,P., Doddapaneni,H., Savino,V., Martelli,G.P., Saponari,M.",Citrus sp.Camellia japonicaCamellia sinensisBroussonetia papyriferaCitrus limonCitrus maxima,
+Paper mulberry leaf curl virus 2,Citlodavirus,,Sweden,,,Broussonetia papyrifera,Dialeurodes citri
+Passion fruit chlorotic mottle virus,Citlodavirus,GCF_004132865.1,Brazil,2019/2/12,"Fontenele,R.S., Abreu,R.A., Lamas,N.S., Alves-Freitas,D.M.T., Vidal,A.H., Poppiel,R.R., Melo,F.L., Lacorte,C., Martin,D.P., Campos,M.A., Varsani,A., Ribeiro,S.G.",Passiflora edulis,
+Beet curly top virus,Curtovirus,GCF_000843505.1,,2018/11/26,"Stanley,J., Markham,P.G., Callis,R.J., Pinner,M.S.",,
+Horseradish curly top virus,Curtovirus,GCF_000837985.1,,2015/2/12,"Klute,K.A., Nadler,S.A., Stenger,D.C.",,
+Eragrostis curvula streak virus,Eragrovirus,GCF_000884795.1,South Africa,2015/2/22,"Varsani,A., Shepherd,D.N., Dent,K., Monjane,A.L., Rybicki,E.P., Martin,D.P.",Eragrostis curvula,Dialeurodes citri
+Grapevine red blotch virus,Grablovirus,GCF_000909815.1,USA,2015/2/22,"Al Rwahnih,M., Dave,A., Anderson,M.M., Rowhani,A., Uyemoto,J.K., Sudarshana,M.R., Sudarshana,M.",Vitis vinifera,
+Wild Vitis latent virus,Grablovirus,GCF_002270745.1,USA,2017/8/26,"Perry,K.L., McLane,H., Thompson,J.R., Fuchs,M.",Vitis vinifera,
+Apple geminivirus 1,Maldovirus,GCF_000969055.1,China,2015/4/6,"Liang,P., Li,S.",Malus domestica,
+Grapevine geminivirus A,Maldovirus,GCF_001766605.1,Israel,2016/10/15,"Al Rwahnih,M., Alabi,O.J., Westrick,N.M., Golino,D., Rowhani,A., Alabi,O., Westrick,N.",Vitis viniferaMalus pumila,
+Juncus maritimus geminivirus 1,Maldovirus,,France,,,Juncus maritimus,
+Melenis repens associated virus,Maldovirus,,Reunion,,,Melenis repens,leafhopper
+Axonopus compressus streak virus,Mastrevirus,GCF_000920415.1,Nigeria,2015/2/22,"Oluwafemi,S., Kraberger,S., Shepherd,D.N., Martin,D.P., Varsani,A.",Axonopus compressus,leafhopper
+Bromus catharticus striate mosaic virus,Mastrevirus,GCF_000890415.1,Australia,2015/2/22,"Hadfield,J., Martin,D.P., Stainton,D., Kraberger,S., Owor,B.E., Shepherd,D.N., Lakay,F., Markham,P.G., Greber,R.S., Briddon,R.W., Varsani,A., Hatfield,J.",Bromus catharticus,leafhopper
+Chickpea chlorosis Australia virus,Mastrevirus,GCF_000911975.1,Australia,2015/2/22,"Hadfield,J., Thomas,J.E., Schwinghamer,M.W., Kraberger,S., Stainton,D., Dayaram,A., Parry,J.N., Pande,D., Martin,D.P., Varsani,A.",Cicer arietinum,
+Chickpea chlorosis virus,Mastrevirus,GCF_000887795.1,Australia,2015/2/22,"Thomas,J.E., Parry,J.N., Schwinghamer,M.W., Dann,E.K.",Cicer arietinum,
+Chickpea chlorotic dwarf virus,Mastrevirus,GCF_000880315.1,Pakistan:Layyah,2015/2/22,"Nahid,N., Amin,I., Mansoor,S., Rybicki,E.P., van der Walt,E., Briddon,R.W.",Cicer arietinum,
+Chickpea redleaf virus,Mastrevirus,GCF_000890315.1,Australia,2015/2/22,"Thomas,J.E., Parry,J.N., Schwinghamer,M.W., Dann,E.K.",Cicer arietinum,
+Chickpea redleaf virus 2,Mastrevirus,GCF_018587145.1,Australia,2021/6/1,"Filardo,F.F., Sharman,M.",Cicer arietinum,
+Chickpea yellow dwarf virus,Mastrevirus,GCF_000927635.1,Pakistan,2015/2/22,"Kraberger,S., Mumtaz,H.H., Briddon,R.W., Martin,D.P., Varsani,A.",Cicer arietinum,
+Chickpea yellows virus,Mastrevirus,GCF_002825025.1,Australia,2018/8/25,"Hadfield,J., Thomas,J.E., Schwinghamer,M.W., Kraberger,S., Stainton,D., Dayaram,A., Parry,J.N., Pande,D., Martin,D.P., Varsani,A.",Cicer arietinum,
+Chloris striate mosaic virus,Mastrevirus,GCF_000839545.1,,2015/2/12,"Andersen,M.T., Richardson,K.A., Harbison,S.A., Morris,B.A.",,leafhopper
+Digitaria ciliaris striate mosaic virus,Mastrevirus,GCF_000900075.1,Australia,2015/2/22,"Kraberger,S., Thomas,J.E., Geering,A.D., Dayaram,A., Stainton,D., Hadfield,J., Walters,M., Parmenter,K.S., van Brunschot,S., Collings,D.A., Martin,D.P., Varsani,A., Geering,A., Parmenter,K.",Digitaria ciliaris,leafhopper
+Digitaria didactyla striate mosaic virus,Mastrevirus,GCF_000889315.1,Australia,2015/2/22,"Briddon,R.W., Martin,D.P., Owor,B.E., Donaldson,L., Markham,P.G., Greber,R.S., Varsani,A., Shepherd,D.N.",Digitaria didactyla,leafhopper
+Digitaria streak virus,Mastrevirus,GCF_000838685.1,,2015/2/12,"Donson,J., Accotto,G.P., Boulton,M.I., Mullineaux,P.M., Davies,J.W.",,leafhopper
+Dragonfly-associated mastrevirus virus,Mastrevirus,GCF_000903435.1,Puerto Rico,2015/2/22,"Rosario,K., Padilla-Rodriguez,M., Kraberger,S., Stainton,D., Martin,D.P., Breitbart,M., Varsani,A.",,
+Eleusine indica associated virus,Mastrevirus,GCF_018585455.1,Reunion,2021/6/1,"Claverie,S., Ouattara,A., Hoarau,M., Filloux,D., Varsani,A., Roumagnac,P., Martin,D.P., Lett,J.M., Lefeuvre,P.",Eleusine indica,leafhopper
+Eragrostis minor streak virus,Mastrevirus,GCF_000893655.1,Namibia,2015/2/22,"Varsani,A., Linderme,D., Lefeuvre,P., Martin,D.P.",Eragrostis minor,leafhopper
+Eragrostis streak virus,Mastrevirus,GCF_000872685.1,Zimbabwe: Guruve,2015/2/13,"Shepherd,D.N., Varsani,A., Windram,O.P., Lefeuvre,P., Monjane,A.L., Owor,B.E., Martin,D.P., Shepherd,D., Martin,D., Windram,O., Monjane,A., Owor,B.",Eragrostis curvula,leafhopper
+Maize streak dwarfing virus,Mastrevirus,GCF_013088405.1,Ethiopia: Adama Zuria,2021/6/1,"Guadie,D., Tesfaye,K., Knierim,D., Winter,S., Abraham,A.",Zea mays,
+Maize streak Reunion virus,Mastrevirus,GCF_000894615.1,Reunion,2015/2/22,"Pande,D., Kraberger,S., Lefeuvre,P., Lett,J.M., Shepherd,D.N., Varsani,A., Martin,D.P., Lett,J.-M.",Zea maysAvena sativaHordeumIpomoea batatasNaked barleySaccharum barberiSaccharum hybridSaccharum officinarumSaccharum robustumSaccharum rufipilumSaccharum sinenseSaccharumSaccharum spontaneumTriticum aestivumErianthus arundinaceus,
+Maize streak virus,Mastrevirus,GCF_000847105.2,Kenya,2015/7/12,"Martin,D.P., Willment,J.A., Billharz,R., Velders,R., Odhiambo,B., Njuguna,J., James,D., Rybicki,E.P.",,
+Maize striate mosaic virus,Mastrevirus,GCF_004130985.1,Brazil,2019/2/12,"Fontenele,R.S., Alves-Freitas,D.M.T., Silva,P.I.T., Foresti,J., Silva,P.R., Godinho,M.T., Varsani,A., Ribeiro,S.G., Tanno,P.I., Freitas,D.M.T.A.",Zea mays,
+Miscanthus streak virus,Mastrevirus,GCF_000839945.1,,2015/2/12,"Chatani,M., Matsumoto,Y., Mizuta,H., Ikegami,M., Boulton,M.I., Davies,J.W.",,leafhopper
+Oat dwarf virus,Mastrevirus,GCF_000875245.1,Germany:Saxony-Anhalt,2015/2/13,"Schubert,J., Habekuss,A., Kazmaier,K., Jeske,H.",Avena sativa,
+Panicum streak virus,Mastrevirus,GCF_000839585.1,,2015/2/12,"Schnippenkoetter,W.H., Martin,D.P., Hughes,F.L., Fyvie,M., Willment,J.A., James,D., von Wechmar,M.B., Rybicki,E.P.",,leafhopper
+Paspalum dilatatum striate mosaic virus,Mastrevirus,GCF_000898615.1,Australia,2015/2/22,"Kraberger,S., Thomas,J.E., Geering,A.D., Dayaram,A., Stainton,D., Hadfield,J., Walters,M., Parmenter,K.S., van Brunschot,S., Collings,D.A., Martin,D.P., Varsani,A., Geering,A., Parmenter,K.",Paspalum dilatatum,leafhopper
+Paspalum striate mosaic virus,Mastrevirus,GCF_000899195.1,Australia,2015/2/22,"Geering,A.D., Thomas,J.E., Holton,T., Hadfield,J., Varsani,A., Geering,A.G.",Paspalum dilatatum,
+Rice latent virus 1,Mastrevirus,GCF_004130515.1,Australia,2019/2/12,"Kraberger,S., Geering,A.D.W., Walters,M., Martin,D.P., Varsani,A.",Oryza sp.,
+Rice latent virus 2,Mastrevirus,GCF_004130535.1,Australia,2019/2/12,"Kraberger,S., Geering,A.D.W., Walters,M., Martin,D.P., Varsani,A.",Oryza sp.,
+Saccharum streak virus,Mastrevirus,GCF_000886895.1,South Africa: KwaZulu-Natal,2015/2/22,"Lawry,R., Martin,D.P., Shepherd,D.N., van Antwerpen,T., Varsani,A.",Saccharum sp.,leafhopper
+Sorghum arundinaceum associated virus,Mastrevirus,GCF_018585475.1,Reunion,2021/6/1,"Claverie,S., Ouattara,A., Hoarau,M., Filloux,D., Varsani,A., Roumagnac,P., Martin,D.P., Lett,J.M., Lefeuvre,P.",Sorghum arundinaceum,
+Sporobolus striate mosaic virus 1,Mastrevirus,GCF_000897615.1,Australia,2015/2/22,"Kraberger,S., Thomas,J.E., Geering,A.D., Dayaram,A., Stainton,D., Hadfield,J., Walters,M., Parmenter,K.S., van Brunschot,S., Collings,D.A., Martin,D.P., Varsani,A., Geering,A., Parmenter,K.",Sporobolus sp.,
+Sporobolus striate mosaic virus 2,Mastrevirus,GCF_000899215.1,Australia,2015/2/22,"Kraberger,S., Thomas,J.E., Geering,A.D., Dayaram,A., Stainton,D., Hadfield,J., Walters,M., Parmenter,K.S., van Brunschot,S., Collings,D.A., Martin,D.P., Varsani,A., Geering,A., Parmenter,K.",Sporobolus sp.,
+Sugarcane chlorotic streak virus,Mastrevirus,GCF_001891015.1,Nigeria,2016/12/8,"Yahaya,A., Dangora,D.B., Alegbejo,M.D., Kumar,P.L., Alabi,O.J.",Saccharum officinarum,
+Sugarcane streak Egypt virus,Mastrevirus,GCF_000841765.1,,2015/2/12,"Bigarre,L., Salah,M., Granier,M., Frutos,R., Thouvenel,J., Peterschmitt,M.",,
+Sugarcane streak Reunion virus,Mastrevirus,GCF_000843205.1,,2015/2/12,"Bigarre,L., Salah,M., Granier,M., Frutos,R., Thouvenel,J., Peterschmitt,M., Thouvenel,J.C.",,
+Sugarcane streak virus,Mastrevirus,GCF_000840065.1,,2015/2/12,"Hughes,F.L.",,
+Sugarcane striate virus,Mastrevirus,GCF_002237255.1,USA,2017/7/29,"Wardatou,B., Roumagnac,P., Filloux,D., Alcala-Briseno,R.I., Kraberger,S., Fernandez,E., Daugrois,J.-H., Martin,D.P., Lett,J.-M., Comstock,J.C., Varsani,A., Polston,J.E., Rott,P.",Saccharum officinarumAvena sativaHordeumIpomoea batatasNaked barleySaccharum barberiSaccharum hybridSaccharum robustumSaccharum rufipilumSaccharum sinenseSaccharumSaccharum spontaneumTriticum aestivumErianthus arundinaceusZea mays,
+Sugarcane white streak virus,Mastrevirus,GCF_000919135.1,Sudan,2015/2/22,"Candresse,T., Filloux,D., Muhire,B., Julian,C., Galzi,S., Fort,G., Bernardo,P., Daugrois,J.H., Fernandez,E., Martin,D.P., Varsani,A., Roumagnac,P.",Saccharum officinarum,
+Sweet potato symptomless virus 1,Mastrevirus,GCF_002158695.1,Taiwan,2017/5/28,"Cao,M., Lan,P., Li,F., Abad,J., Zhou,C., Li,R.",Ipomoea batatas,
+Switchgrass mosaic-associated virus,Mastrevirus,GCF_000928935.1,"USA: Urbana, IL",2015/2/22,"Agindotan,B.O., Domier,L.L., Bradley,C.A.",Panicum virgatum,
+Tobacco yellow dwarf virus,Mastrevirus,GCF_000840085.1,,2015/2/12,"Morris,B.A., Richardson,K.A., Haley,A., Zhan,X., Thomas,J.E.",,
+Urochloa streak virus,Mastrevirus,GCF_000874425.1,Nigeria: Ejigbo,2015/2/13,"Oluwafemi,S., Varsani,A., Monjane,A.L., Shepherd,D.N., Owor,B.E., Rybicki,E.P., Martin,D.P.",,leafhopper
+Wheat dwarf India virus,Mastrevirus,GCF_000894555.1,India,2015/2/22,"Kumar,J., Singh,S.P., Tuli,R.",Triticum aestivum,
+Wheat dwarf virus,Mastrevirus,GCF_000865525.1,Sweden,2015/2/13,"Kvarnheden,A., Lindblad,M., Lindsten,K., Valkonen,J.P.",Triticum aestivumAvena sativaHordeumIpomoea batatasNaked barleySaccharum barberiSaccharum hybridSaccharum officinarumSaccharum robustumSaccharum rufipilumSaccharum sinenseSaccharumSaccharum spontaneumErianthus arundinaceusZea mays,
+Mulberry crinkle leaf virus,Mulcrilevirus,,China,,,Broussonetia papyriferaMorus albaMorus,leafhopper
+Paper mulberry leaf curl virus 1,Mulcrilevirus,,Sweden,,,Morus albaBroussonetia papyriferaMorus,Dialeurodes citri
+Opuntia virus 1,Opunvirus,GCF_018587595.1,USA,2021/6/1,"Fontenele,R.S., Schmidlin,K., Majure,L., Salywon,A., Kraberger,S., Wojciechowski,M., Cobb,I., Varsani,A.",Opuntia echios,
+Tomato apical leaf curl virus,Topilevirus,GCF_002890115.1,Argentina,2018/1/18,"Vaghi Medina,G., Teppa,E., Bornancini,V.A., Flores,C.R., Marino Buslje,C., Lopez Lambertini,P.M.",Solanum lycopersicum,
+Tomato geminivirus 1,Topilevirus,,Brazil,,,Cleome sp.,
+Tomato pseudo-curly top virus,Topocuvirus,GCF_000848785.1,,2015/2/12,"Briddon,R.W., Bedford,I.D., Tsai,J.H., Markham,P.G.",Solanum nigrum,
+Sesame curly top virus,Turncurtovirus,,Argentina,,,,
+Turnip curly top virus,Turncurtovirus,GCF_000887455.1,Iran,2015/2/22,"Briddon,R.W., Heydarnejad,J., Khosrowfar,F., Massumi,H., Martin,D.P., Varsani,A.",Brassica rapa,
+Turnip leaf roll virus,Turncurtovirus,GCF_001550845.1,Iran,2016/2/7,"Kamali,M., Heydarnejad,J., Massumi,H., Kvarnheden,A., Kraberger,S., Varsani,A.",Brassica rapa,
+Prunus latent virus,Grablovirus,GCF_004788535.1,USA,2019/6/28,"Al Rwahnih,M., Alabi,O., Westrick,N., Golino,D.",Prunus salicina,
+Spinach severe curly top virus,Curtovirus,GCF_000888695.1,USA,2015/2/22,"Hernandez,C., Brown,J.K., Hernandez-Zepeda,C.",Spinacia oleracea,
+Tomato yellow leaf curl Sardinia virus,Begomovirus,GCF_000844945.1,,2015/2/12,"Noris,E., Vaira,A.M., Caciagli,P., Masenga,V., Gronenborn,B., Accotto,G.P., Laufs,J., Schumacher,S., Geisler,N., Jupin,I., Desbiez,C., David,C., Mettouchi,A., Traut,W., Heyraud,F., Matzeit,V., Rogers,S.G., Schell,J., Kheyr-Pour,A., Bendahmane,M., Crespi,S.",,
+Tomato leaf curl Laos virus,Begomovirus,GCF_000842065.1,Laos,2015/2/12,"Tsai,W.S., Nakhla,M.K., Maxwell,D.P., Green,S.K., Black,L.L.",,
+Tomato leaf curl Hanoi virus,Begomovirus,GCF_000892255.1,Viet Nam,2015/2/22,"Ha,C.V., Le,H.V., Tran,T.N.",Solanum lycopersicum,
+Spilanthes yellow vein virus,Begomovirus,GCF_000873265.1,Viet Nam: Dalat,2015/2/13,"Ha,C., Coombs,S., Revill,P., Harding,R., Vu,M., Dale,J., Ha,C.V., Revill,P.A., Harding,R.M., Vu,M.T., Dale,J.L.",Acmella paniculata,Bemisia tabaci
+Sida leaf curl virus,Begomovirus,GCF_000866845.1,China:Hainan,2015/2/13,"Guo,X., Zhou,X.",Gossypium hirsutum,Bemisia tabaci
+Sida golden yellow spot virus,Begomovirus,GCF_003029415.1,Brazil,2018/8/26,"Ferro,C.G., Silva,J.P., Xavier,C.A.D., Godinho,M.T., Lima,A.T.M., Mar,T.B., Lau,D., Zerbini,F.M.",,Bemisia tabaci
+Malvastrum leaf curl Philippines virus,Begomovirus,GCF_000909895.1,Philippines,2015/2/22,"She,X.M., He,Z.F.",Malvastrum coromandelianum,Bemisia tabaci
+Honeysuckle yellow vein virus,Begomovirus,GCF_000859185.1,United Kingdom:Norfolk,2015/2/13,"Briddon,R.W.",Lonicera japonica,
+Hibiscus golden mosaic virus,Begomovirus,GCF_013088435.1,Brazil,2021/6/1,"Quadros,A.F., Silva,J.P., Xavier,C.A., Zerbini,F.M., Boari,A.J., Quadros,A.F.F., Xavier,C.A.D., Zerbini,F.M. Jr.",Hibiscus sp.,Bemisia tabaci
+Dicliptera yellow mottle virus,Begomovirus,GCF_000840105.1,USA:Florida,2015/2/12,"Lotrakul,P., Valverde,R.A., Landry,A.D.",,Bemisia tabaci
+Cabbage leaf curl virus,Begomovirus,GCF_000838405.1,,2015/2/12,"Abouzid,A.M., Hiebert,E., Strandberg,J.O.",,
+Blechum yellow vein virus,Begomovirus,GCF_004787075.1,Philippines,2021/6/1,"Tsai,W.S., Shih,S.L., Lee,L.M., Dolores,L.M., Kenyon,L.",Ruellia blechum,Bemisia tabaci
+Bean golden yellow mosaic virus,Begomovirus,GCF_002867405.1,,2015/2/12,"Morinaga,T., Ikegami,M., Shimotohno,K., Miura,K.",,
+Allamanda leaf curl virus,Begomovirus,GCF_000874545.1,China,2015/2/13,"He,Z.F., Mao,M.J., Yu,H., Li,H.P., Chen,X.",Allamanda catharticaAlcea rosea,Bemisia tabaci
+Melon yellow mosaic virus,,,,,,,
+Camellia chlorotic dwarf-associated virus,,,,,,,
+
