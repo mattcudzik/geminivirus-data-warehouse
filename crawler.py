@@ -7,13 +7,16 @@ def scrape_page(page_number):
     url = f"http://gpi.geminiviridae.com/virus/{page_number}"
     response = requests.get(url)
 
+    if response.status_code != 200:
+        return {
+            'Virus Id': page_number
+        }
+
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Zbieranie nazwy wirusa
     name_tag = soup.find('h3')
     name = name_tag.find('span').find('i').text if name_tag else None
 
-    # Zbieranie danych z tabeli 2-kolumnowej (key-value)
     table_data = {}
     table = soup.find('table')
     if table:
@@ -26,7 +29,11 @@ def scrape_page(page_number):
             value = row.find('td').text.strip().replace("\n", "")
             table_data[key] = value
 
-    return name, table_data
+    return {
+        'Virus Id': page_number,
+        'Virus Name': name,
+        **table_data
+    }
 
 def scrape_multiple_pages(start, end):
     all_data = []
@@ -35,9 +42,7 @@ def scrape_multiple_pages(start, end):
     for i in range(start, end + 1):
         try:
             print(f"Scraping page {i}...")
-            name, table_data = scrape_page(i)
-            if name and table_data:
-                all_data.append({'Virus Name': name, **table_data})
+            all_data.append(scrape_page(i))
         except Exception as e:
             indexes_to_retry.append(i)
             print(f"Error processing page {i}")
