@@ -1,42 +1,111 @@
 import os
 import pandas as pd
+import psycopg2
 from Bio import SeqIO
 import numpy as np
 from collections import Counter
+from psycopg2.extras import execute_values
+from datetime import datetime
+from config import *
 
-from pandas.core.interchange.dataframe_protocol import DataFrame
 from scipy.stats import entropy
 
-def find_missing_data(csv_file, fasta_folder):
+def populate_warehouse():
+    conn = psycopg2.connect(**DB_CONFIG)
+    cursor = conn.cursor()
 
-    def read_csv_virus_names(csv_file):
-        df = pd.read_csv(csv_file)
-        return set(df['Virus Name'].str.lower().str.strip())
+    metadata_df = pd.read_csv(METADATA_CSV)
+    metadata_df.fillna('', inplace=True)
 
-    def read_virus_names_from_files(fasta_folder):
-        virus_names = set()
+    virus_name_to_id = {}
 
-        for file_name in os.listdir(fasta_folder):
-            if file_name.endswith(".fa"):
-                virus_name = os.path.splitext(file_name)[0]
-                virus_names.add(virus_name.lower().replace("_", " ").strip())
+    for _, row in metadata_df.iterrows():
+        virus_name = row['Virus Name'].strip().lower()
 
-        return virus_names
+        try:
+            release_date = datetime.strptime(row['Release date'], "%Y/%m/%d").date()
+        except (ValueError, TypeError):
+            release_date = None
 
-    csv_names = read_csv_virus_names(csv_file)
+        cursor.execute("""
+            INSERT INTO virus_metadata (virus_name, genus, isolate_location, release_date, submitter, host, vector)
+            VALUES (%s, %s, %s, %s, %s, %s, %s)
+            ON CONFLICT (virus_name) DO NOTHING
+            RETURNING id;
+        """, (
+            virus_name,
+            row['Genus'],
+            row['Isolate'],
+            release_date,
+            row['Submitter'],
+            row['Host'],
+            row['Vector']
+        ))
 
-    fasta_names = read_virus_names_from_files(fasta_folder)
+        result = cursor.fetchone()
+        if result:
+            virus_id = result[0]
+        else:
+            cursor.execute("SELECT id FROM virus_metadata WHERE virus_name = %s", (virus_name,))
+            virus_id = cursor.fetchone()[0]
 
-    csv_not_in_fasta = csv_names.difference(fasta_names)
-    fasta_not_in_csv = fasta_names.difference(csv_names)
+        virus_name_to_id[virus_name] = virus_id
 
-    print("Viruses in CSV but not in .fa/.fai:")
-    for name in csv_not_in_fasta:
-        print(name)
+    conn.commit()
 
-    print("\nViruses in .fa/.fai but not in CSV:")
-    for name in fasta_not_in_csv:
-        print(name)
+    features_df = pd.read_csv(FEATURES_CSV)
+    features_df.fillna('', inplace=True)
+
+    for _, row in features_df.iterrows():
+        virus_name = row['Virus_Name'].strip().lower()
+        accession = row['Accession'].strip()
+        length = int(row['Length'])
+        sequence = row['Sequence'].strip().upper()
+
+        if virus_name not in virus_name_to_id:
+            print(f"⚠️ Virus '{virus_name}' not found in metadata. Skipping genome: {accession}")
+            continue
+
+        virus_id = virus_name_to_id[virus_name]
+
+        # === Insert genome with sequence ===
+        cursor.execute("""
+            INSERT INTO genomes (accession, virus_id, raw_sequence, length)
+            VALUES (%s, %s, %s, %s)
+            ON CONFLICT (accession) DO NOTHING
+            RETURNING id;
+        """, (accession, virus_id, sequence, length))
+
+        result = cursor.fetchone()
+        if result:
+            genome_id = result[0]
+        else:
+            cursor.execute("SELECT id FROM genomes WHERE accession = %s", (accession,))
+            genome_id = cursor.fetchone()[0]
+
+        # === Insert features ===
+        cursor.execute("""
+            INSERT INTO features (
+                genome_id, gc_content, percent_a, percent_t, percent_c, percent_g,
+                entropy, quartile1_gc, quartile2_gc, quartile3_gc, quartile4_gc
+            ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);
+        """, (
+            genome_id,
+            row['GC_content'],
+            row['%A'],
+            row['%T'],
+            row['%C'],
+            row['%G'],
+            row['Shannon_entropy'],
+            row['Quartile1_GC'],
+            row['Quartile2_GC'],
+            row['Quartile3_GC'],
+            row['Quartile4_GC']
+        ))
+
+    conn.commit()
+    cursor.close()
+    conn.close()
 
 def calculate_features(seq):
     seq = str(seq).upper()
@@ -82,13 +151,14 @@ def process_fasta_directory(folder_path):
                 features = calculate_features(record.seq)
                 features['Virus_Name'] = os.path.splitext(filename)[0].lower().replace("_", " ").strip()
                 features['Accession'] = record.id
+                features['Sequence'] = record.seq
                 all_records.append(features)
     return pd.DataFrame(all_records)
 
 if __name__ == "__main__":
-    fasta_folder = "genome"
-    df = process_fasta_directory(fasta_folder)
-    print(df.head())
+    df = process_fasta_directory(FASTA_FOLDER)
     df.to_csv("virus_features.csv", index=False)
+    populate_warehouse()
 
-#find_missing_data('scraped_virus_data.csv', 'genome')
+
+

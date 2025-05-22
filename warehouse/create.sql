@@ -1,7 +1,7 @@
 -- Tabela: virus_metadata (czysto opisowa – dane źródłowe, biologiczne)
-CREATE TABLE virus (
+CREATE TABLE virus_metadata (
     id SERIAL PRIMARY KEY,
-    virus_name TEXT NOT NULL,           -- np. Abutilon golden mosaic virus
+    virus_name TEXT NOT NULL UNIQUE,           -- np. Abutilon golden mosaic virus
     genus TEXT,                         -- np. Begomovirus
     isolate_location TEXT,              -- np. Mexico: Yucatan
     release_date DATE,
