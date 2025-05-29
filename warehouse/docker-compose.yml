@@ -9,9 +9,9 @@ services:
       POSTGRES_PASSWORD: admin_password
       POSTGRES_DB: mydatabase
     ports:
-      - "5432:5432"   # Expose PostgreSQL on the host machine
+      - "5432:5432"
     volumes:
-      - postgres_data:/var/lib/postgresql/data # Persist data
+      - postgres_data:/var/lib/postgresql/data
 
   # pgAdmin Service
   pgadmin:
@@ -21,11 +21,11 @@ services:
       PGADMIN_DEFAULT_EMAIL: admin@admin.com
       PGADMIN_DEFAULT_PASSWORD: admin_password
     ports:
-      - "80:80"  # Expose pgAdmin UI on port 80
+      - "80:80"
     depends_on:
       - postgres
     volumes:
-      - pgadmin_data:/var/lib/pgadmin # Persist pgAdmin data
+      - pgadmin_data:/var/lib/pgadmin
 
 volumes:
   postgres_data:
